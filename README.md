@@ -2,18 +2,18 @@
 
 ## 10 Heavenly Stems
 
-| Stem | Chinese Character | Meaning/Element | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
-|------|-------------------|-----------------|--------------|------------|-----------------|----------|
-| 1 | 甲 | Armor/Wood (Yang) | jiǎ | chia³ | jea | ㄐㄧㄚˇ |
-| 2 | 乙 | Second/Wood (Yin) | yǐ | i³ | yii | ㄧˇ |
-| 3 | 丙 | Third/Fire (Yang) | bǐng | ping³ | biing | ㄅㄧㄥˇ |
-| 4 | 丁 | Fourth/Fire (Yin) | dīng | ting¹ | ding | ㄉㄧㄥ |
-| 5 | 戊 | Fifth/Earth (Yang) | wù | wu⁴ | wuh | ㄨˋ |
-| 6 | 己 | Self/Earth (Yin) | jǐ | chi³ | jii | ㄐㄧˇ |
-| 7 | 庚 | Age/Metal (Yang) | gēng | keng¹ | geng | ㄍㄥ |
-| 8 | 辛 | Bitter/Metal (Yin) | xīn | hsin¹ | shin | ㄒㄧㄣ |
-| 9 | 壬 | Burden/Water (Yang) | rén | jen² | ren | ㄖㄣˊ |
-| 10 | 癸 | Tenth/Water (Yin) | guǐ | kuei³ | goei | ㄍㄨㄟˇ |
+| Stem | Chinese Character | Element | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|------|-------------------|---------|--------------|------------|-----------------|----------|
+| 1 | 甲 | Wood (Yang) | jiǎ | chia³ | jea | ㄐㄧㄚˇ |
+| 2 | 乙 | Wood (Yin) | yǐ | i³ | yii | ㄧˇ |
+| 3 | 丙 | Fire (Yang) | bǐng | ping³ | biing | ㄅㄧㄥˇ |
+| 4 | 丁 | Fire (Yin) | dīng | ting¹ | ding | ㄉㄧㄥ |
+| 5 | 戊 | Earth (Yang) | wù | wu⁴ | wuh | ㄨˋ |
+| 6 | 己 | Earth (Yin) | jǐ | chi³ | jii | ㄐㄧˇ |
+| 7 | 庚 | Metal (Yang) | gēng | keng¹ | geng | ㄍㄥ |
+| 8 | 辛 | Metal (Yin) | xīn | hsin¹ | shin | ㄒㄧㄣ |
+| 9 | 壬 | Water (Yang) | rén | jen² | ren | ㄖㄣˊ |
+| 10 | 癸 | Water (Yin) | guǐ | kuei³ | goei | ㄍㄨㄟˇ |
 
 ***
 
