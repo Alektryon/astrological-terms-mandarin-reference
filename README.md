@@ -21,18 +21,18 @@
 
 | Branch | Chinese Character | Meaning/Zodiac | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |--------|-------------------|----------------|--------------|------------|-----------------|----------|
-| 1 | 子 | Child/Rat | zǐ | tzu³ | tzyy | ㄗˇ |
-| 2 | 丑 | Ox/Ox | chǒu | ch’ou³ | choou | ㄔㄡˇ |
-| 3 | 寅 | Tiger/Tiger | yín | yin² | yn | ㄧㄣˊ |
-| 4 | 卯 | Rabbit/Rabbit | mǎo | mao³ | mao | ㄇㄠˇ |
-| 5 | 辰 | Dragon/Dragon | chén | ch’en² | chern | ㄔㄣˊ |
-| 6 | 巳 | Snake/Snake | sì | ssu⁴ | syh | ㄙˋ |
-| 7 | 午 | Horse/Horse | wǔ | wu³ | wuu | ㄨˇ |
-| 8 | 未 | Goat/Goat | wèi | wei⁴ | wey | ㄨㄟˋ |
-| 9 | 申 | Monkey/Monkey | shēn | shen¹ | shen | ㄕㄣ |
-| 10 | 酉 | Rooster/Rooster | yǒu | yu³ | yeou | ㄧㄡˇ |
-| 11 | 戌 | Dog/Dog | xū | hsü¹ | shiu | ㄒㄩ |
-| 12 | 亥 | Pig/Pig | hài | hai⁴ | hay | ㄏㄞˋ |
+| 1 | 子 | Rat | zǐ | tzu³ | tzyy | ㄗˇ |
+| 2 | 丑 | Ox | chǒu | ch’ou³ | choou | ㄔㄡˇ |
+| 3 | 寅 | Tiger | yín | yin² | yn | ㄧㄣˊ |
+| 4 | 卯 | Rabbit | mǎo | mao³ | mao | ㄇㄠˇ |
+| 5 | 辰 | Dragon | chén | ch’en² | chern | ㄔㄣˊ |
+| 6 | 巳 | Snake | sì | ssu⁴ | syh | ㄙˋ |
+| 7 | 午 | Horse | wǔ | wu³ | wuu | ㄨˇ |
+| 8 | 未 | Goat | wèi | wei⁴ | wey | ㄨㄟˋ |
+| 9 | 申 | Monkey | shēn | shen¹ | shen | ㄕㄣ |
+| 10 | 酉 | Rooster | yǒu | yu³ | yeou | ㄧㄡˇ |
+| 11 | 戌 | Dog | xū | hsü¹ | shiu | ㄒㄩ |
+| 12 | 亥 | Pig | hài | hai⁴ | hay | ㄏㄞˋ |
 
 ***
 
