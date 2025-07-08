@@ -1,4 +1,59 @@
-# I Ching & Chinese Astrology
+# Chinese Astrology & I-Ching
+
+## 10 Heavenly Stems
+
+| Stem | Chinese Character | Meaning/Element | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|------|-------------------|-----------------|--------------|------------|-----------------|----------|
+| 1 | 甲 | Armor/Wood (Yang) | jiǎ | chia³ | jea | ㄐㄧㄚˇ |
+| 2 | 乙 | Second/Wood (Yin) | yǐ | i³ | yii | ㄧˇ |
+| 3 | 丙 | Third/Fire (Yang) | bǐng | ping³ | biing | ㄅㄧㄥˇ |
+| 4 | 丁 | Fourth/Fire (Yin) | dīng | ting¹ | ding | ㄉㄧㄥ |
+| 5 | 戊 | Fifth/Earth (Yang) | wù | wu⁴ | wuh | ㄨˋ |
+| 6 | 己 | Self/Earth (Yin) | jǐ | chi³ | jii | ㄐㄧˇ |
+| 7 | 庚 | Age/Metal (Yang) | gēng | keng¹ | geng | ㄍㄥ |
+| 8 | 辛 | Bitter/Metal (Yin) | xīn | hsin¹ | shin | ㄒㄧㄣ |
+| 9 | 壬 | Burden/Water (Yang) | rén | jen² | ren | ㄖㄣˊ |
+| 10 | 癸 | Tenth/Water (Yin) | guǐ | kuei³ | goei | ㄍㄨㄟˇ |
+
+***
+
+## 12 Earthly Branches
+
+| Branch | Chinese Character | Meaning/Zodiac | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|--------|-------------------|----------------|--------------|------------|-----------------|----------|
+| 1 | 子 | Child/Rat | zǐ | tzu³ | tzyy | ㄗˇ |
+| 2 | 丑 | Ox/Ox | chǒu | ch’ou³ | choou | ㄔㄡˇ |
+| 3 | 寅 | Tiger/Tiger | yín | yin² | yn | ㄧㄣˊ |
+| 4 | 卯 | Rabbit/Rabbit | mǎo | mao³ | mao | ㄇㄠˇ |
+| 5 | 辰 | Dragon/Dragon | chén | ch’en² | chern | ㄔㄣˊ |
+| 6 | 巳 | Snake/Snake | sì | ssu⁴ | syh | ㄙˋ |
+| 7 | 午 | Horse/Horse | wǔ | wu³ | wuu | ㄨˇ |
+| 8 | 未 | Goat/Goat | wèi | wei⁴ | wey | ㄨㄟˋ |
+| 9 | 申 | Monkey/Monkey | shēn | shen¹ | shen | ㄕㄣ |
+| 10 | 酉 | Rooster/Rooster | yǒu | yu³ | yeou | ㄧㄡˇ |
+| 11 | 戌 | Dog/Dog | xū | hsü¹ | shiu | ㄒㄩ |
+| 12 | 亥 | Pig/Pig | hài | hai⁴ | hay | ㄏㄞˋ |
+
+***
+
+## Zodiac Signs
+
+| Zodiac Animal | Chinese Character | Meaning/Association | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|---------------|-------------------|---------------------|--------------|------------|-----------------|----------|
+| 1. Rat | 鼠 | Resourceful, clever | shǔ | shu³ | shuu | ㄕㄨˇ |
+| 2. Ox | 牛 | Diligent, strong | niú | niu² | nyou | ㄋㄧㄡˊ |
+| 3. Tiger | 虎 | Brave, powerful | hǔ | hu³ | huu | ㄏㄨˇ |
+| 4. Rabbit | 兔 | Gentle, cautious | tù | t’u⁴ | tuh | ㄊㄨˋ |
+| 5. Dragon | 龍 | Majestic, auspicious | lóng | lung² | long | ㄌㄨㄥˊ |
+| 6. Snake | 蛇 | Wise, cunning | shé | she² | sher | ㄕㄜˊ |
+| 7. Horse | 馬 | Energetic, free-spirited | mǎ | ma³ | maa | ㄇㄚˇ |
+| 8. Goat | 羊 | Peaceful, kind | yáng | yang² | yang | ㄧㄤˊ |
+| 9. Monkey | 猴 | Intelligent, agile | hóu | hou² | hor | ㄏㄡˊ |
+| 10. Rooster | 雞 | Confident, punctual | jī | chi¹ | ji | ㄐㄧ |
+| 11. Dog | 狗 | Loyal, honest | gǒu | kou³ | goou | ㄍㄡˇ |
+| 12. Pig | 豬 | Generous, sincere | zhū | chu¹ | ju | ㄓㄨ |
+
+***
 
 ## 8 Trigrams
 
@@ -12,6 +67,8 @@
 | 6 | ☴ | 巽 | Wind, The Gentle | Xùn | Hsün⁴ | Shiunn | ㄒㄩㄣˋ |
 | 7 | ☲ | 離 | Fire, The Clinging | Lí | Li² | Lii | ㄌㄧˊ |
 | 8 | ☱ | 兌 | Lake, The Joyous | Duì | Tui⁴ | Duey | ㄉㄨㄟˋ |
+
+***
 
 ## 64 Hexagrams
 
