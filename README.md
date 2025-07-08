@@ -15,8 +15,8 @@
 
 ## 64 Hexagrams
 
-| Number | Hexagram | Chinese Name | Meaning | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
-|--------|----------|--------------|---------|--------------|------------|-----------------|----------|
+| No | Hexagram | Chinese Name | Meaning | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|----|----------|--------------|---------|--------------|------------|-----------------|----------|
 | 1 | ䷀ | 乾 | The Creative, Heaven | Qián | Ch’ien² | Chyan | ㄑㄧㄢˊ |
 | 2 | ䷁ | 坤 | The Receptive, Earth | Kūn | K’un¹ | Kuen | ㄎㄨㄣ |
 | 3 | ䷂ | 屯 | Difficulty at the Beginning | Zhūn | Chun¹ | Jwun | ㄓㄨㄣ |
