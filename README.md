@@ -1,3 +1,20 @@
+# Chinese Astrology
+
+## 8 Trigrams
+
+| No | Trigram | Chinese Name | Meaning | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|----|---------|--------------|---------|--------------|------------|-----------------|----------|
+| 1 | ☰ | 乾 | Heaven, The Creative | Qián | Ch’ien² | Chyan | ㄑㄧㄢˊ |
+| 2 | ☷ | 坤 | Earth, The Receptive | Kūn | K’un¹ | Kuen | ㄎㄨㄣ |
+| 3 | ☳ | 震 | Thunder, The Arousing | Zhèn | Chen⁴ | Jenn | ㄓㄣˋ |
+| 4 | ☵ | 坎 | Water, The Abyss | Kǎn | K’an³ | Kann | ㄎㄢˇ |
+| 5 | ☶ | 艮 | Mountain, Keeping Still | Gèn | Ken⁴ | Genn | ㄍㄣˋ |
+| 6 | ☴ | 巽 | Wind, The Gentle | Xùn | Hsün⁴ | Shiunn | ㄒㄩㄣˋ |
+| 7 | ☲ | 離 | Fire, The Clinging | Lí | Li² | Lii | ㄌㄧˊ |
+| 8 | ☱ | 兌 | Lake, The Joyous | Duì | Tui⁴ | Duey | ㄉㄨㄟˋ |
+
+## 64 Hexagrams
+
 | Number | Hexagram | Chinese Name | Meaning | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |--------|----------|--------------|---------|--------------|------------|-----------------|----------|
 | 1 | ䷀ | 乾 | The Creative, Heaven | Qián | Ch’ien² | Chyan | ㄑㄧㄢˊ |
