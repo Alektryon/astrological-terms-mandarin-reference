@@ -1,4 +1,4 @@
-# Chinese Astrology
+# I Ching & Chinese Astrology
 
 ## 8 Trigrams
 
