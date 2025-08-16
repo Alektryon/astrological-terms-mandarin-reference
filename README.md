@@ -70,6 +70,41 @@
 
 ***
 
+## 28 Lunar Mansions
+
+|  No | Asterism / Animal | Main Star(s) | Chinese Name | Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|-----|-------------------|--------------|--------------|--------|------------|-----------------|----------|
+| 1 | Horn (Dragon’s horn) | Spica (α Virginis) | 角 | Jiǎo | Chiao³ | Jeau | ㄐㄧㄠˇ |
+| 2 | Neck of the Dragon | κ, α Librae | 亢 | Kàng | K’ang⁴ | Kanq | ㄎㄤˋ |
+| 3 | Root of the Dragon | Arcturus (α Boötis) | 氐 | Dī | Ti¹ | Di | ㄉㄧ |
+| 4 | Room / House of the Dragon | π, ρ, σ, etc. Scorpii | 房 | Fáng | Fang² | Farng | ㄈㄤˊ |
+| 5 | Heart of the Dragon | Antares (α Scorpii) | 心 | Xīn | Hsin¹ | Shin | ㄒㄧㄣ |
+| 6 | Tail of the Dragon | μ, λ, ν, φ, etc. Scorpii | 尾 | Wěi | Wei³ | Wey | ㄨㄟˇ |
+| 7 | Winnowing Basket (Dragon’s hind legs) | γ, δ, ε, θ Sagittarii | 箕 | Jī | Chi¹ | Jii | ㄐㄧ |
+| 8 | Dipper (Northern Ladle) | φ, σ, τ, ζ, etc. Sagittarii | 斗 | Dǒu | Tou³ | Doou | ㄉㄡˇ |
+| 9 | Ox (Black Tortoise) | β Capricorni | 牛 | Niú | Niu² | Nyou | ㄋㄧㄡˊ |
+| 10 | Maiden / Woman | ε Aquarii | 女 | Nǚ | Nü³ | Niu | ㄋㄩˇ |
+| 11 | Emptiness / Void | β Aquarii (Sadalsuud) | 虚 | Xū | Hsü¹ | Shiu | ㄒㄩ |
+| 12 | Rooftop / Roof of the house | α Aquarii (Sadalmelik) | 危 | Wēi | Wei¹ | Wey | ㄨㄟ |
+| 13 | Encampment / Chamber | γ Aquarii (Sadachbia) | 室 | Shì | Shih⁴ | Shyh | ㄕˋ |
+| 14 | Wall | α Pegasi (Markab) | 壁 | Bì | Pi⁴ | Bih | ㄅㄧˋ |
+| 15 | Legs of the White Tiger | stars of Andromeda & Pegasus | 奎 | Kuí | K’uei² | Kwei | ㄎㄨㄟˊ |
+| 16 | Bond / Tether | β Arietis (Sheratan), α Arietis (Hamal) | 婁 | Lóu | Lou² | Low | ㄌㄡˊ |
+| 17 | Stomach of the White Tiger | 35, 39 Arietis | 胃 | Wèi | Wei⁴ | Wey | ㄨㄟˋ |
+| 18 | Hairy Head (Pleiades) | Pleiades (M45, esp. Alcyone) | 昴 | Mǎo | Mao³ | Maau | ㄇㄠˇ |
+| 19 | Net / Net of stars | Hyades cluster (incl. Aldebaran α Tauri) | 畢 | Bì | Pi⁴ | Bih | ㄅㄧˋ |
+| 20 | Beak (of the Turtle) | λ, φ Orionis | 觜 | Zuǐ | Tsui³ | Tzuey | ㄗㄨㄟˇ |
+| 21 | Three Stars (Orion’s Belt) | Orion’s Belt (Alnitak, Alnilam, Mintaka) | 參 | Shēn | Shen¹ | Shen | ㄕㄣ |
+| 22 | Well (Vermilion Bird) | γ, δ, μ, λ Geminorum | 井 | Jǐng | Ching³ | Jeeng | ㄐㄧㄥˇ |
+| 23 | Ghosts | θ Cancri | 鬼 | Guǐ | Kuei³ | Gwey | ㄍㄨㄟˇ |
+| 24 | Willow | δ Hydrae | 柳 | Liǔ | Liu³ | Leou | ㄌㄧㄡˇ |
+| 25 | Star (bright star) | α Hydrae | 星 | Xīng | Hsing¹ | Shing | ㄒㄧㄥ |
+| 26 | Extended Net / Spread | μ Hydrae | 張 | Zhāng | Chang¹ | Jang | ㄓㄤ |
+| 27 | Wings of the Vermilion Bird | α, β Corvi | 翼 | Yì | I⁴ | Yih | ㄧˋ |
+| 28 | Chariot / Carriage | γ Corvi | 軫 | Zhěn | Chen³ | Jern | ㄓㄣˇ |
+
+***
+
 ## 64 Hexagrams
 
 | No | Hexagram | Meaning | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
