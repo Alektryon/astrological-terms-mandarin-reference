@@ -55,21 +55,6 @@
 
 ***
 
-## 8 Trigrams
-
-| No | Trigram | Meaning | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
-|----|---------|---------|--------------|--------------|------------|-----------------|----------|
-| 1 | ☰ | Heaven, The Creative | 乾 | Qián | Ch’ien² | Chyan | ㄑㄧㄢˊ |
-| 2 | ☷ | Earth, The Receptive | 坤 | Kūn | K’un¹ | Kuen | ㄎㄨㄣ |
-| 3 | ☳ | Thunder, The Arousing | 震 | Zhèn | Chen⁴ | Jenn | ㄓㄣˋ |
-| 4 | ☵ | Water, The Abyss | 坎 | Kǎn | K’an³ | Kann | ㄎㄢˇ |
-| 5 | ☶ | Mountain, Keeping Still | 艮 | Gèn | Ken⁴ | Genn | ㄍㄣˋ |
-| 6 | ☴ | Wind, The Gentle | 巽 | Xùn | Hsün⁴ | Shiunn | ㄒㄩㄣˋ |
-| 7 | ☲ | Fire, The Clinging | 離 | Lí | Li² | Lii | ㄌㄧˊ |
-| 8 | ☱ | Lake, The Joyous | 兌 | Duì | Tui⁴ | Duey | ㄉㄨㄟˋ |
-
-***
-
 ## 28 Lunar Mansions
 
 |  No | Asterism / Animal | Main Star(s) | Chinese Name | Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
@@ -102,6 +87,21 @@
 | 26 | Extended Net / Spread | μ Hydrae | 張 | Zhāng | Chang¹ | Jang | ㄓㄤ |
 | 27 | Wings of the Vermilion Bird | α, β Corvi | 翼 | Yì | I⁴ | Yih | ㄧˋ |
 | 28 | Chariot / Carriage | γ Corvi | 軫 | Zhěn | Chen³ | Jern | ㄓㄣˇ |
+
+***
+
+## 8 Trigrams
+
+| No | Trigram | Meaning | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|----|---------|---------|--------------|--------------|------------|-----------------|----------|
+| 1 | ☰ | Heaven, The Creative | 乾 | Qián | Ch’ien² | Chyan | ㄑㄧㄢˊ |
+| 2 | ☷ | Earth, The Receptive | 坤 | Kūn | K’un¹ | Kuen | ㄎㄨㄣ |
+| 3 | ☳ | Thunder, The Arousing | 震 | Zhèn | Chen⁴ | Jenn | ㄓㄣˋ |
+| 4 | ☵ | Water, The Abyss | 坎 | Kǎn | K’an³ | Kann | ㄎㄢˇ |
+| 5 | ☶ | Mountain, Keeping Still | 艮 | Gèn | Ken⁴ | Genn | ㄍㄣˋ |
+| 6 | ☴ | Wind, The Gentle | 巽 | Xùn | Hsün⁴ | Shiunn | ㄒㄩㄣˋ |
+| 7 | ☲ | Fire, The Clinging | 離 | Lí | Li² | Lii | ㄌㄧˊ |
+| 8 | ☱ | Lake, The Joyous | 兌 | Duì | Tui⁴ | Duey | ㄉㄨㄟˋ |
 
 ***
 
