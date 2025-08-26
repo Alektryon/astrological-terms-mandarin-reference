@@ -1,4 +1,4 @@
-# Chinese Astrology, I-Ching & Feng Shui
+# Chinese Astrology, I Ching & Feng Shui
 
 ## 5 Elements or Agents
 
@@ -134,7 +134,7 @@
 
 ***
 
-## 64 Hexagrams
+## 64 Hexagrams (I Ching)
 
 | No | Hexagram | Meaning | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |----|----------|---------|--------------|--------------|------------|-----------------|----------|
@@ -202,3 +202,91 @@
 | 62 | ䷽ | Small Preponderance | 小過 | Xiǎo Guò | Hsiao³ Kuo⁴ | Sheau Guoh | ㄒㄧㄠˇ ㄍㄨㄛˋ |
 | 63 | ䷾ | After Completion | 既濟 | Jì Jì | Chi⁴ Chi⁴ | Jih Jih | ㄐㄧˋ ㄐㄧˋ |
 | 64 | ䷿ | Before Completion | 未濟 | Wèi Jì | Wei⁴ Chi⁴ | Wey Jih | ㄨㄟˋ ㄐㄧˋ |
+
+***
+
+## 81 Tetragrams (T'ai Hsüan Ching)
+
+| No | Tetragram | Name | Period | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|----|-----------|------|--------|--------------|--------------|------------|-----------------|----------|
+| 1 | 𝌆 | Centre | Dec 22 – Dec 26 (㏂) | 中 | zhōng | chung¹ | jong | ㄓㄨㄥ |
+| 2 | 𝌇 | Full Circle | Dec 26 (㏘) – Dec 30 | 周 | zhōu | chou¹ | jou | ㄓㄡ |
+| 3 | 𝌈 | Mired | Dec 31 – Jan 4 (㏂) | 礥 | xián | hsien² | shyan | ㄒㄧㄢˊ |
+| 4 | 𝌉 | Barrier | Jan 4 (㏘) – Jan 8 | 閑 | xián | hsien² | shyan | ㄒㄧㄢˊ |
+| 5 | 𝌊 | Keeping Small | Jan 9 – Jan 13 (㏂) | 少 | shǎo | shao³ | shao | ㄕㄠˇ |
+| 6 | 𝌋 | Contrariety | Jan 13 (㏘) – Jan 17 | 戾 | lì | li⁴ | lih | ㄌㄧˋ |
+| 7 | 𝌌 | Ascent | Jan 18 – Jan 22 (㏂) | 上 | shàng | shang⁴ | shanq | ㄕㄤˋ |
+| 8 | 𝌍 | Opposition | Jan 22 (㏘) – Jan 26 | 干 | gān | kan¹ | gan | ㄍㄢ |
+| 9 | 𝌎 | Branching Out | Jan 27 – Jan 31 (㏂) | 𤕠 | shū  | shu¹ | shu | ㄕㄨ |
+| 10 | 𝌏 | Defectiveness or Distortion | Jan 31 (㏘) – Feb 4 | 羡 | xiàn | hsien⁴ | shiann | ㄒㄧㄢˋ |
+| 11 | 𝌐 | Divergence | Feb 5 – Feb 9 (㏂) | 差 | chā | ch'a¹ | cha | ㄔㄚ |
+| 12 | 𝌑 | Youthfulness | Feb 9 (㏘) – Feb 13 | 童 | tóng | t'ung² | torng | ㄊㄨㄥˊ |
+| 13 | 𝌒 | Increase | Feb 14 – Feb 18 (㏂) | 增 | zēng | tseng¹ | tzeng | ㄗㄥ |
+| 14 | 𝌓 | Penetration | Feb 18 (㏘) – Feb 22 | 銳 | ruì | jui⁴ | ruey | ㄖㄨㄟˋ |
+| 15 | 𝌔 | Reach | Feb 23 – Feb 27 (㏂) | 達 | dá | ta² | dar | ㄉㄚˊ |
+| 16 | 𝌕 | Contact | Feb 27 (㏘) – Mar 3 | 交 | jiāo | chiao¹ | jiau | ㄐㄧㄠ |
+| 17 | 𝌖 | Holding Back | Mar 4 – Mar 8 (㏂) | 䎡 | ruǎn | juan³ | roan | ㄖㄨㄢˇ |
+| 18 | 𝌗 | Waiting | Mar 8 (㏘) – Mar 12 | 傒 | xī | hsi¹ | shi | ㄒㄧ |
+| 19 | 𝌘 | Following | Mar 13 – Mar 17 (㏂) | 從 | cóng | ts'ung² | tsorng | ㄘㄨㄥˊ |
+| 20 | 𝌙 | Advance | Mar 17 (㏘) – Mar 21 | 進 | jìn | chin⁴ | jinn | ㄐㄧㄣˋ |
+| 21 | 𝌚 | Release | Mar 22 – Mar 26 (㏂) | 釋 | shì | shih⁴ | shyh | ㄕˋ |
+| 22 | 𝌛 | Resistance | Mar 26 (㏘) – Mar 30 | 格 | gé | ko² | ger | ㄍㄜˊ |
+| 23 | 𝌜 | Ease | Mar 31 – Apr 4 (㏂) | 夷 | yí | i² | yi | ㄧˊ |
+| 24 | 𝌝 | Joy | Apr 4 (㏘) – April 8 | 樂 | lè | le⁴ | leh | ㄌㄜˋ |
+| 25 | 𝌞 | Contention | Apr 9 – Apr 13 (㏂) | 爭 | zhēng | cheng¹ | jeng | ㄓㄥ |
+| 26 | 𝌟 | Endeavour | Apr 13 (㏘) – Apr 17 | 務 | wù | wu⁴ | wuh | ㄨˋ |
+| 27 | 𝌠 | Duties | Apr 18 – Apr 22 (㏂) | 事 | shì | shih⁴ | shyh | ㄕˋ |
+| 28 | 𝌡 | Change | Apr 22 (㏘) – Apr 26 | 更 | gèng | keng⁴ | genq | ㄍㄥˋ |
+| 29 | 𝌢 | Decisiveness | Apr 27 – May 1 (㏂) | 斷 | duàn | tuan⁴ | duann | ㄉㄨㄢˋ |
+| 30 | 𝌣 | Bold Resolution | May 1 (㏘) – May 5 | 毅 | yì | i⁴ | yih | ㄧˋ |
+| 31 | 𝌤 | Packing | May 6 – May 10 (㏂) | 裝 | zhuāng | chuang¹ | juang | ㄓㄨㄤ |
+| 32 | 𝌥 | Legion | May 10 (㏘) – May 14 | 眾 | zhòng | chung⁴ | jonq | ㄓㄨㄥˋ |
+| 33 | 𝌦 | Closeness | May 15 – May 19 (㏂) | 密 | mì | mi⁴ | mih | ㄇㄧˋ |
+| 34 | 𝌧 | Kinship | May 19 (㏘) – May 23 | 親 | qīn | ch'in¹ | chin | ㄑㄧㄣ |
+| 35 | 𝌨 | Gathering | May 24 – May 28 (㏂) | 斂 | liǎn | lien³ | lean | ㄌㄧㄢˇ |
+| 36 | 𝌩 | Strength | May 28 (㏘) – Jun 1 | 彊 | qiáng | ch’iang² | chyang | ㄑㄧㄤˊ |
+| 37 | 𝌪 | Purity | Jun 2 – Jun 6 (㏂) | 睟 | suì | sui⁴ | suey | ㄙㄨㄟˋ |
+| 38 | 𝌫 | Fullness | Jun 6 (㏘) – Jun 10 | 盛 | shèng | sheng⁴ | shenq | ㄕㄥˋ |
+| 39 | 𝌬 | Residence | Jun 11 – Jun 15 (㏂) | 居 | jū | chü¹ | jiu | ㄐㄩ |
+| 40 | 𝌭 | Law or Model | Jun 15 (㏘) – Jun 19 | 法 | fǎ | fa³ | faa | ㄈㄚˇ |
+| 41 | 𝌮 | Response | Jun 20 – Jun 24 (㏂) | 應 | yìng | ying⁴ | yinq | ㄧㄥˋ |
+| 42 | 𝌯 | Going to meet | Jun 24 (㏘) – Jun 28 | 迎 | yíng | ying² | yng | ㄧㄥˊ |
+| 43 | 𝌰 | Encounters | Jun 29 – Jul 3 (㏂) | 遇 | yù | yü⁴ | yuh | ㄩˋ |
+| 44 | 𝌱 | Stove | Jul 3 (㏘) – Jul 7 | 竈 | zào | tsao⁴ | tzaw | ㄗㄠˋ |
+| 45 | 𝌲 | Greatness | Jul 8 – Jul 12 (㏂) | 大 | dà | ta⁴ | dah | ㄉㄚˋ |
+| 46 | 𝌳 | Enlargement | Jul 12 (㏘) – Jul 16 | 廓 | kuò | k'uo⁴ | kuoh | ㄎㄨㄛˋ |
+| 47 | 𝌴 | Pattern | Jul 17 – Jul 21 (㏂) | 文 | wén | wen² | wen | ㄨㄣˊ |
+| 48 | 𝌵 | Ritual | Jul 21 (㏘) – Jul 25 | 禮 | lǐ | li³ | lii | ㄌㄧˇ |
+| 49 | 𝌶 | Flight | Jul 26 – Jul 30 (㏂) | 逃 | táo | t'ao² | taur | ㄊㄠˊ |
+| 50 | 𝌷 | Vastness or Wasting | Jul 30 (㏘) – Aug 3 | 唐 | táng | t'ang² | tarng | ㄊㄤˊ |
+| 51 | 𝌸 | Constancy | Aug 4 – Aug 8 (㏂) | 常 | cháng | ch'ang² | charng | ㄔㄤˊ |
+| 52 | 𝌹 | Measure | Aug 8 (㏘) – Aug 12 | 度 | dù | tu⁴ | duh | ㄉㄨˋ |
+| 53 | 𝌺 | Eternity | Aug 13 – Aug 17 (㏂) | 永 | yǒng | yung³ | yeong | ㄩㄥˇ |
+| 54 | 𝌻 | Unity | Aug 17 (㏘) – Aug 21 | 昆 | kūn | k'un¹ | kuen | ㄎㄨㄣ |
+| 55 | 𝌼 | Diminishment | Aug 22 – Aug 26 (㏂) | 減 | jiǎn | chien³ | jean | ㄐㄧㄢˇ |
+| 56 | 𝌽 | Closed Mouth | Aug 26 (㏘) – Aug 30 | 唫 | jìn | chin⁴ | jinn | ㄐㄧㄣˋ |
+| 57 | 𝌾 | Guardedness | Aug 31 – Sep 4 (㏂) | 守 | shǒu | shou³ | shoou | ㄕㄡˇ |
+| 58 | 𝌿 | Gathering In | Sep 4 (㏘) – Sep 8 | 翕 | xī | hsi¹ | shi | ㄒㄧ |
+| 59 | 𝍀 | Massing | Sep 9 – Sep 13 (㏂) | 聚 | jù | chü⁴ | jiuh | ㄐㄩˋ |
+| 60 | 𝍁 | Accumulation | Sep 13 (㏘) – Sep 17 | 積 | jī | chi¹ | ji | ㄐㄧ |
+| 61 | 𝍂 | Embellishment | Sep 18 – Sep 22 (㏂) | 飾 | shì | shih⁴ | shyh | ㄕˋ |
+| 62 | 𝍃 | Doubt | Sep 22 (㏘) – Sep 26 | 疑 | yí | i² | yi | ㄧˊ |
+| 63 | 𝍄 | Watch | Sep 27 – Oct 1 (㏂) | 視 | shì | shih⁴ | shyh | ㄕˋ |
+| 64 | 𝍅 | Sinking | Oct 1 (㏘) – Oct 5 | 沈 | chén | shen² | chern | ㄔㄣˊ |
+| 65 | 𝍆 | Inner | Oct 6 – Oct 10 (㏂) | 內 | nèi | nei⁴ | ney | ㄋㄟˋ |
+| 66 | 𝍇 | Departure | Oct 10 (㏘) – Oct 14 | 去 | qù | ch'ü⁴ | chiuh | ㄑㄩˋ |
+| 67 | 𝍈 | Darkening | Oct 15 – Oct 19 (㏂) | 晦 | huì | hui⁴ | huey | ㄏㄨㄟˋ |
+| 68 | 𝍉 | Dimming | Oct 19 (㏘) – Oct 23 | 瞢 | méng | meng² | meng | ㄇㄥˊ |
+| 69 | 𝍊 | Exhaustion | Oct 24 – Oct 28 (㏂) | 窮 | qióng | ch'iung² | chyong | ㄑㄩㄥˊ |
+| 70 | 𝍋 | Severance | Oct 28 (㏘) – Nov 1 | 割 | gē | ko¹ | ge | ㄍㄜ |
+| 71 | 𝍌 | Stoppage | Nov 2 – Nov 6 (㏂) | 止 | zhǐ | chih³ | jyy | ㄓˇ |
+| 72 | 𝍍 | Hardness | Nov 6 (㏘) – Nov 10 | 堅 | jiān | chien¹ | jian | ㄐㄧㄢ |
+| 73 | 𝍎 | Completion | Nov 11 – Nov 15 (㏂) | 成 | chéng | ch'eng² | cherng | ㄔㄥˊ |
+| 74 | 𝍏 | Closure | Nov 15 (㏘) – Nov 19 | 䦯 | zhì | chih⁴ | jyh | ㄓˋ |
+| 75 | 𝍐 | Failure | Nov 20 – Nov 24 (㏂) | 失 | shī | shih¹ | shy | ㄕ |
+| 76 | 𝍑 | Aggravation | Nov 24 (㏘) – Nov 28 | 劇 | jù | chü⁴ | jiuh | ㄐㄩˋ |
+| 77 | 𝍒 | Compliance | Nov 29 – Dec 3 (㏂) | 馴 | xùn | hsün⁴ | shiunn | ㄒㄩㄣˋ |
+| 78 | 𝍓 | On The Verge | Dec 3 (㏘) – Dec 7 | 將 | jiāng | chiang¹ | jiang | ㄐㄧㄤ |
+| 79 | 𝍔 | Difficulties | Dec 8 – Dec 12 (㏂) | 難 | nán | nan² | nan | ㄋㄢˊ |
+| 80 | 𝍕 | Labouring | Dec 12 (㏘) – Dec 16 | 勤 | qín | ch'in² | chyn | ㄑㄧㄣˊ |
+| 81 | 𝍖 | Fostering | Dec 17 – Dec 21 (㏂) | 養 | yǎng  | yang³ | yeang | ㄧㄤˇ |
