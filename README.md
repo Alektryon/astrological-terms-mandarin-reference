@@ -219,7 +219,7 @@
 | 8 | 𝌍 | Opposition | Jan 22 (㏘) – Jan 26 | 干 | gān | kan¹ | gan | ㄍㄢ |
 | 9 | 𝌎 | Branching Out | Jan 27 – Jan 31 (㏂) | 𤕠 | shū  | shu¹ | shu | ㄕㄨ |
 | 10 | 𝌏 | Defectiveness or Distortion | Jan 31 (㏘) – Feb 4 | 羡 | xiàn | hsien⁴ | shiann | ㄒㄧㄢˋ |
-| 11 | 𝌐 | Divergence | Feb 5 – Feb 9 (㏂) | 差 | chā | ch'a¹ | cha | ㄔㄚ |
+| 11 | 𝌐 | Divergence | Feb 5 – Feb 9 (㏂) | 差 | chà | ch'a⁴ | chah | ㄔㄚˋ |
 | 12 | 𝌑 | Youthfulness | Feb 9 (㏘) – Feb 13 | 童 | tóng | t'ung² | torng | ㄊㄨㄥˊ |
 | 13 | 𝌒 | Increase | Feb 14 – Feb 18 (㏂) | 增 | zēng | tseng¹ | tzeng | ㄗㄥ |
 | 14 | 𝌓 | Penetration | Feb 18 (㏘) – Feb 22 | 銳 | ruì | jui⁴ | ruey | ㄖㄨㄟˋ |
