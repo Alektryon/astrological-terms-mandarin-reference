@@ -1,4 +1,48 @@
-# Chinese Astrology & I-Ching
+# Chinese Astrology, I-Ching & Feng Shui
+
+## 5 Elements or Agents
+
+| No | Name | Associations | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|----|------|--------------|--------------|--------------|------------|-----------------|----------|
+| 1 | Wood | growth, creativity | 木 | mù | mu⁴ | muu | ㄇㄨˋ |
+| 2 | Fire | transformation, passion | 火 | huǒ | huo³ | huo | ㄏㄨㄛˇ |
+| 3 | Earth | stability, nurturing | 土 | tǔ | t'u³ | tu | ㄊㄨˇ |
+| 4 | Metal | clarity, determination | 金 | jīn | chin¹ | jin | ㄐㄧㄣ |
+| 5 | Water | adaptability, wisdom | 水 | shuǐ | shui³ | shwèi | ㄕㄨㄟˇ |
+
+***
+
+## 8 Trigrams
+
+| No | Trigram | Meaning | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|----|---------|---------|--------------|--------------|------------|-----------------|----------|
+| 1 | ☰ | Heaven, The Creative | 乾 | Qián | Ch’ien² | Chyan | ㄑㄧㄢˊ |
+| 2 | ☷ | Earth, The Receptive | 坤 | Kūn | K’un¹ | Kuen | ㄎㄨㄣ |
+| 3 | ☳ | Thunder, The Arousing | 震 | Zhèn | Chen⁴ | Jenn | ㄓㄣˋ |
+| 4 | ☵ | Water, The Abyss | 坎 | Kǎn | K’an³ | Kann | ㄎㄢˇ |
+| 5 | ☶ | Mountain, Keeping Still | 艮 | Gèn | Ken⁴ | Genn | ㄍㄣˋ |
+| 6 | ☴ | Wind, The Gentle | 巽 | Xùn | Hsün⁴ | Shiunn | ㄒㄩㄣˋ |
+| 7 | ☲ | Fire, The Clinging | 離 | Lí | Li² | Lii | ㄌㄧˊ |
+| 8 | ☱ | Lake, The Joyous | 兌 | Duì | Tui⁴ | Duey | ㄉㄨㄟˋ |
+
+***
+
+## 9 Flying Stars
+
+| No | Name (English) | Stellar Association | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|----|----------------|---------------------|--------------|--------------|------------|-----------------|----------|
+| 1 | Greedy Wolf Star | Dubhe (α Ursae Majoris) | 贪狼星 | Tān Láng Xīng | Tan¹ Lang² Hsing¹ | Tan Lang Shiing | ㄊㄢ ㄌㄤˊ ㄒㄧㄥ |
+| 2 | Huge Door Star | Merak (β Ursae Majoris) | 巨门星 | Jù Mén Xīng | Chü⁴ Men² Hsing¹ | Jiu Men Shiing | ㄐㄩˋ ㄇㄣˊ ㄒㄧㄥ |
+| 3 | Money Star | Phecda (γ Ursae Majoris) | 禄存星 | Lù Cún Xīng | Lu⁴ Ts'un² Hsing¹ | Lu Cun Shiing | ㄌㄨˋ ㄘㄨㄣˊ ㄒㄧㄥ |
+| 4 | Academic Star | Megrez (δ Ursae Majoris) | 文曲星 | Wén Qǔ Xīng | Wen² Ch'ü³ Hsing¹ | Wen Chiu Shiing | ㄨㄣˊ ㄑㄩˇ ㄒㄧㄥ |
+| 5 | Sickness Star | Alioth (ε Ursae Majoris) | 廉贞星 | Lián Zhēn Xīng | Lien² Chen¹ Hsing¹ | Lian Jhen Shiing | ㄌㄧㄢˊ ㄓㄣ ㄒㄧㄥ |
+| 6 | Military Arts Star | Mizar (ζ Ursae Majoris) | 武曲星 | Wǔ Qū Xīng | Wu³ Ch'ü¹ Hsing¹ | Wu Chu Shiing | ㄨˇ ㄑㄩ ㄒㄧㄥ |
+| 7 | Broken Soldier Star | Alkaid (η Ursae Majoris) | 破军星 | Pò Jūn Xīng | P'o⁴ Chün¹ Hsing¹ | Po Jun Shiing | ㄆㄛˋ ㄐㄩㄣ ㄒㄧㄥ |
+| 8 | Left Assistant Star | Auxiliary star A | 左辅星 | Zuǒ Fǔ Xīng | Tso³ Fu³ Hsing¹ | Zo Fu Shiing | ㄗㄨㄛˇ ㄈㄨˇ ㄒㄧㄥ |
+| 9 | Right Assistant Star | Auxiliary star B | 右弼星 | Yòu Bì Xīng | Yu⁴ Pi⁴ Hsing¹ | You Bih Shiing | ㄧㄡˋ ㄅㄧˋ ㄒㄧㄥ |
+
+
+***
 
 ## 10 Heavenly Stems
 
@@ -57,8 +101,8 @@
 
 ## 28 Lunar Mansions
 
-|  No | Asterism / Animal | Main Star(s) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
-|-----|-------------------|--------------|--------------|--------------|------------|-----------------|----------|
+|  No | Asterism / Animal | Main Star(s) | Chinese Name | Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|-----|-------------------|--------------|--------------|--------|------------|-----------------|----------|
 | 1 | Horn (Dragon’s horn) | Spica (α Virginis) | 角 | Jiǎo | Chiao³ | Jeau | ㄐㄧㄠˇ |
 | 2 | Neck of the Dragon | κ, α Librae | 亢 | Kàng | K’ang⁴ | Kanq | ㄎㄤˋ |
 | 3 | Root of the Dragon | Arcturus (α Boötis) | 氐 | Dī | Ti¹ | Di | ㄉㄧ |
@@ -87,21 +131,6 @@
 | 26 | Extended Net / Spread | μ Hydrae | 張 | Zhāng | Chang¹ | Jang | ㄓㄤ |
 | 27 | Wings of the Vermilion Bird | α, β Corvi | 翼 | Yì | I⁴ | Yih | ㄧˋ |
 | 28 | Chariot / Carriage | γ Corvi | 軫 | Zhěn | Chen³ | Jern | ㄓㄣˇ |
-
-***
-
-## 8 Trigrams
-
-| No | Trigram | Meaning | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
-|----|---------|---------|--------------|--------------|------------|-----------------|----------|
-| 1 | ☰ | Heaven, The Creative | 乾 | Qián | Ch’ien² | Chyan | ㄑㄧㄢˊ |
-| 2 | ☷ | Earth, The Receptive | 坤 | Kūn | K’un¹ | Kuen | ㄎㄨㄣ |
-| 3 | ☳ | Thunder, The Arousing | 震 | Zhèn | Chen⁴ | Jenn | ㄓㄣˋ |
-| 4 | ☵ | Water, The Abyss | 坎 | Kǎn | K’an³ | Kann | ㄎㄢˇ |
-| 5 | ☶ | Mountain, Keeping Still | 艮 | Gèn | Ken⁴ | Genn | ㄍㄣˋ |
-| 6 | ☴ | Wind, The Gentle | 巽 | Xùn | Hsün⁴ | Shiunn | ㄒㄩㄣˋ |
-| 7 | ☲ | Fire, The Clinging | 離 | Lí | Li² | Lii | ㄌㄧˊ |
-| 8 | ☱ | Lake, The Joyous | 兌 | Duì | Tui⁴ | Duey | ㄉㄨㄟˋ |
 
 ***
 
