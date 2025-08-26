@@ -101,8 +101,8 @@
 
 ## 28 Lunar Mansions
 
-|  No | Asterism / Animal | Main Star(s) | Chinese Name | Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
-|-----|-------------------|--------------|--------------|--------|------------|-----------------|----------|
+|  No | Asterism / Animal | Main Star(s) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|-----|-------------------|--------------|--------------|--------------|------------|-----------------|----------|
 | 1 | Horn (Dragon’s horn) | Spica (α Virginis) | 角 | Jiǎo | Chiao³ | Jeau | ㄐㄧㄠˇ |
 | 2 | Neck of the Dragon | κ, α Librae | 亢 | Kàng | K’ang⁴ | Kanq | ㄎㄤˋ |
 | 3 | Root of the Dragon | Arcturus (α Boötis) | 氐 | Dī | Ti¹ | Di | ㄉㄧ |
