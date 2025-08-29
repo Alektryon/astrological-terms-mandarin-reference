@@ -44,6 +44,26 @@
 
 ***
 
+## The Sun, Moon, Planets and Lunar Nodes
+
+| Body | Meaning | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|------|---------|--------------|--------------|------------|-----------------|----------|
+| Sun | Greatest Yang | 太阳 | Tài Yáng | T'ai⁴ Yang² | Tay Yang | ㄊㄞˋ ㄧㄤˊ |
+| Moon | Bright Moon | 月亮 | Yuè Liàng | Yüeh⁴ Liang⁴ | Yweh Liawng | ㄩㄝˋ ㄌㄧㄤˋ |
+| Mercury | Water Star | 水星 | Shuǐ Xīng | Shui³ Hsing¹ | Shuey Shing | ㄕㄨㄟˇ ㄒㄧㄥ |
+| Venus | Metal Star | 金星 | Jīn Xīng | Chin¹ Hsing¹ | Jin Shing | ㄐㄧㄣ ㄒㄧㄥ |
+| Earth | Earth Sphere | 地球 | Dì Qiú | Ti⁴ Ch'iu² | Dih Chiou | ㄉㄧˋ ㄑㄧㄡˊ |
+| Mars | Fire Star | 火星 | Huǒ Xīng | Huo³ Hsing¹ | Hwo Shing | ㄏㄨㄛˇ ㄒㄧㄥ |
+| Jupiter | Wood Star | 木星 | Mù Xīng | Mu⁴ Hsing¹ | Muh Shing | ㄇㄨˋ ㄒㄧㄥ |
+| Saturn | Earth/Soil Star | 土星 | Tǔ Xīng | T'u³ Hsing¹ | Tuu Shing | ㄊㄨˇ ㄒㄧㄥ |
+| Uranus | Heaven King Star | 天王星 | Tiān Wáng Xīng | T'ien¹ Wang² Hsing¹ | Tyan Wang Shing | ㄊㄧㄢ ㄨㄤˊ ㄒㄧㄥ |
+| Neptune | Sea King Star | 海王星 | Hǎi Wáng Xīng | Hai³ Wang² Hsing¹ | Hae Wang Shing | ㄏㄞˇ ㄨㄤˊ ㄒㄧㄥ |
+| Pluto | Underworld King Star | 冥王星 | Míng Wáng Xīng | Ming² Wang² Hsing¹ | Ming Wang Shing | ㄇㄧㄥˊ ㄨㄤˊ ㄒㄧㄥ |
+| North Node | Head of the Dragon | 龙头 | Lóng Tóu | Lung² T'ou² | Long Tyou | ㄌㄨㄥˊ ㄊㄡˊ |
+| South Node | Tail of the Dragon | 龙尾 | Lóng Wěi | Lung² Wei³ | Long Weei | ㄌㄨㄥˊ ㄨㄟˇ |
+
+***
+
 ## 10 Heavenly Stems
 
 | Stem | Element | Chinese Character | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
@@ -99,9 +119,38 @@
 
 ***
 
+## 24 Solar Terms
+
+| No | Solar Term | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|----|------------|--------------|--------------|------------|-----------------|----------|
+| 1 | Beginning of Spring | 4–5 February | 立春 | Lìchūn | Li⁴-ch'un¹ | Lihchuen | ㄌㄧˋ ㄔㄨㄣ |
+| 2 | Rain Water | 18–19 February | 雨水 | Yǔshuǐ | Yü³-shui³ | Yushuey | ㄩˇ ㄕㄨㄟˇ |
+| 3 | Awakening of Insects | 5–6 March | 惊蛰 | Jīngzhé | Ching¹-che² | Jingzhe | ㄐㄧㄥ ㄓㄜˊ |
+| 4 | Spring Equinox | 20–21 March | 春分 | Chūnfēn | Ch'un¹-fen¹ | Chuenfen | ㄔㄨㄣ ㄈㄣ |
+| 5 | Clear and Bright | 4–5 April | 清明 | Qīngmíng | Ch'ing¹-ming² | Chingming | ㄑㄧㄥ ㄇㄧㄥˊ |
+| 6 | Grain Rain | 20–21 April | 谷雨 | Gǔyǔ | Ku³-yü³ | Guuyu | ㄍㄨˇ ㄩˇ |
+| 7 | Beginning of Summer | 5–6 May | 立夏 | Lìxià | Li⁴-hsia⁴ | Lihshià | ㄌㄧˋ ㄒㄧㄚˋ |
+| 8 | Lesser Fullness of Grain | 21–22 May | 小满 | Xiǎomǎn | Hsiao³-man³ | Shiawmaan | ㄒㄧㄠˇ ㄇㄢˇ |
+| 9 | Grain in Ear | 5–6 June | 芒种 | Mángzhǒng | Mang²-chung³ | Mangjong | ㄇㄤˊ ㄓㄨㄥˇ |
+| 10 | Summer Solstice | 21–22 June | 夏至 | Xiàzhì | Hsia⁴-chih⁴ | Shiàjyh | ㄒㄧㄚˋ ㄓˋ |
+| 11 | Lesser Heat | 7–8 July | 小暑 | Xiǎoshǔ | Hsiao³-shu³ | Shiawshuu | ㄒㄧㄠˇ ㄕㄨˇ |
+| 12 | Greater Heat | 22–23 July | 大暑 | Dàshǔ | Ta⁴-shu³ | Dashuu | ㄉㄚˋ ㄕㄨˇ |
+| 13 | Beginning of Autumn | 7–8 August | 立秋 | Lìqiū | Li⁴-ch'iu¹ | Lihchiou | ㄌㄧˋ ㄑㄧㄡ |
+| 14 | End of Heat | 23–24 August | 处暑 | Chùshǔ | Ch'u⁴-shu³ | Chushuu | ㄔㄨˋ ㄕㄨˇ |
+| 15 | White Dew | 7–8 September | 白露 | Báilù | Pai²-lu⁴ | Bairluuh | ㄅㄞˊ ㄌㄨˋ |
+| 16 | Autumn Equinox | 23–24 September | 秋分 | Qiūfēn | Ch'iu¹-fen¹ | Chioufen | ㄑㄧㄡ ㄈㄣ |
+| 17 | Cold Dew | 8–9 October | 寒露 | Hánlù | Han²-lu⁴ | Hánluuh | ㄏㄢˊ ㄌㄨˋ |
+| 18 | Frost Descent | 23–24 October | 霜降 | Shuāngjiàng | Shuang¹-chiang⁴ | Shuangjiàng | ㄕㄨㄤ ㄐㄧㄤˋ |
+| 19 | Beginning of Winter | 7–8 November | 立冬 | Lìdōng | Li⁴-tung¹ | Lihdong | ㄌㄧˋ ㄉㄨㄥ |
+| 20 | Lesser Snow | 22–23 November | 小雪 | Xiǎoxuě | Hsiao³-hsüeh³ | Shiawshue | ㄒㄧㄠˇ ㄒㄩㄝˇ |
+| 21 | Greater Snow | 7–8 December | 大雪 | Dàxuě | Ta⁴-hsüeh³ | Dashue | ㄉㄚˋ ㄒㄩㄝˇ |
+| 22 | Winter Solstice | 21–22 December | 冬至 | Dōngzhì | Tung¹-chih⁴ | Dongjyh | ㄉㄨㄥ ㄓˋ |
+| 23 | Lesser Cold | 5–6 January | 小寒 | Xiǎohán | Hsiao³-han² | Shiawhan | ㄒㄧㄠˇ ㄏㄢˊ |
+| 24 | Greater Cold | 20–21 January | 大寒 | Dàhán | Ta⁴-han² | Dahan | ㄉㄚˋ ㄏㄢˊ |***
+
 ## 28 Lunar Mansions
 
-|  No | Asterism / Animal | Main Star(s) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+| No | Asterism / Animal | Main Star(s) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |-----|-------------------|--------------|--------------|--------------|------------|-----------------|----------|
 | 1 | Horn (Dragon’s horn) | Spica (α Virginis) | 角 | Jiǎo | Chiao³ | Jeau | ㄐㄧㄠˇ |
 | 2 | Neck of the Dragon | κ, α Librae | 亢 | Kàng | K’ang⁴ | Kanq | ㄎㄤˋ |
@@ -217,7 +266,7 @@
 | 6 | 𝌋 | Contrariety | Jan 13 (㏘) – Jan 17 | 戾 | lì | li⁴ | lih | ㄌㄧˋ |
 | 7 | 𝌌 | Ascent | Jan 18 – Jan 22 (㏂) | 上 | shàng | shang⁴ | shanq | ㄕㄤˋ |
 | 8 | 𝌍 | Opposition | Jan 22 (㏘) – Jan 26 | 干 | gān | kan¹ | gan | ㄍㄢ |
-| 9 | 𝌎 | Branching Out | Jan 27 – Jan 31 (㏂) | 𤕠 | shū  | shu¹ | shu | ㄕㄨ |
+| 9 | 𝌎 | Branching Out | Jan 27 – Jan 31 (㏂) | 𤕠 | shū | shu¹ | shu | ㄕㄨ |
 | 10 | 𝌏 | Defectiveness or Distortion | Jan 31 (㏘) – Feb 4 | 羡 | xiàn | hsien⁴ | shiann | ㄒㄧㄢˋ |
 | 11 | 𝌐 | Divergence | Feb 5 – Feb 9 (㏂) | 差 | chà | ch'a⁴ | chah | ㄔㄚˋ |
 | 12 | 𝌑 | Youthfulness | Feb 9 (㏘) – Feb 13 | 童 | tóng | t'ung² | torng | ㄊㄨㄥˊ |
@@ -289,4 +338,4 @@
 | 78 | 𝍓 | On The Verge | Dec 3 (㏘) – Dec 7 | 將 | jiāng | chiang¹ | jiang | ㄐㄧㄤ |
 | 79 | 𝍔 | Difficulties | Dec 8 – Dec 12 (㏂) | 難 | nán | nan² | nan | ㄋㄢˊ |
 | 80 | 𝍕 | Labouring | Dec 12 (㏘) – Dec 16 | 勤 | qín | ch'in² | chyn | ㄑㄧㄣˊ |
-| 81 | 𝍖 | Fostering | Dec 17 – Dec 21 (㏂) | 養 | yǎng  | yang³ | yeang | ㄧㄤˇ |
+| 81 | 𝍖 | Fostering | Dec 17 – Dec 21 (㏂) | 養 | yǎng | yang³ | yeang | ㄧㄤˇ |
