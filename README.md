@@ -61,7 +61,7 @@
 
 ***
 
-## Eleven Star Gods
+## 11 Star Gods
 
 | No | Star God | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |----|----------|--------------|--------------|------------|-----------------|----------|
