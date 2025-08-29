@@ -44,26 +44,6 @@
 
 ***
 
-## The Sun, Moon, Planets and Lunar Nodes
-
-| Body | Meaning | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
-|------|---------|--------------|--------------|------------|-----------------|----------|
-| Sun | Greatest Yang | 太阳 | Tài Yáng | T'ai⁴ Yang² | Tay Yang | ㄊㄞˋ ㄧㄤˊ |
-| Moon | Bright Moon | 月亮 | Yuè Liàng | Yüeh⁴ Liang⁴ | Yweh Liawng | ㄩㄝˋ ㄌㄧㄤˋ |
-| Mercury | Water Star | 水星 | Shuǐ Xīng | Shui³ Hsing¹ | Shuey Shing | ㄕㄨㄟˇ ㄒㄧㄥ |
-| Venus | Metal Star | 金星 | Jīn Xīng | Chin¹ Hsing¹ | Jin Shing | ㄐㄧㄣ ㄒㄧㄥ |
-| Earth | Earth Sphere | 地球 | Dì Qiú | Ti⁴ Ch'iu² | Dih Chiou | ㄉㄧˋ ㄑㄧㄡˊ |
-| Mars | Fire Star | 火星 | Huǒ Xīng | Huo³ Hsing¹ | Hwo Shing | ㄏㄨㄛˇ ㄒㄧㄥ |
-| Jupiter | Wood Star | 木星 | Mù Xīng | Mu⁴ Hsing¹ | Muh Shing | ㄇㄨˋ ㄒㄧㄥ |
-| Saturn | Earth/Soil Star | 土星 | Tǔ Xīng | T'u³ Hsing¹ | Tuu Shing | ㄊㄨˇ ㄒㄧㄥ |
-| Uranus | Heaven King Star | 天王星 | Tiān Wáng Xīng | T'ien¹ Wang² Hsing¹ | Tyan Wang Shing | ㄊㄧㄢ ㄨㄤˊ ㄒㄧㄥ |
-| Neptune | Sea King Star | 海王星 | Hǎi Wáng Xīng | Hai³ Wang² Hsing¹ | Hae Wang Shing | ㄏㄞˇ ㄨㄤˊ ㄒㄧㄥ |
-| Pluto | Underworld King Star | 冥王星 | Míng Wáng Xīng | Ming² Wang² Hsing¹ | Ming Wang Shing | ㄇㄧㄥˊ ㄨㄤˊ ㄒㄧㄥ |
-| North Node | Head of the Dragon | 龙头 | Lóng Tóu | Lung² T'ou² | Long Tyou | ㄌㄨㄥˊ ㄊㄡˊ |
-| South Node | Tail of the Dragon | 龙尾 | Lóng Wěi | Lung² Wei³ | Long Weei | ㄌㄨㄥˊ ㄨㄟˇ |
-
-***
-
 ## 10 Heavenly Stems
 
 | Stem | Element | Chinese Character | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
@@ -116,6 +96,26 @@
 | 10. Rooster | Confident, punctual | 雞 | jī | chi¹ | ji | ㄐㄧ |
 | 11. Dog | Loyal, honest | 狗 | gǒu | kou³ | goou | ㄍㄡˇ |
 | 12. Pig | Generous, sincere | 豬 | zhū | chu¹ | ju | ㄓㄨ |
+
+***
+
+## The Sun, Moon, Planets and Lunar Nodes
+
+| Body | Meaning | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|------|---------|--------------|--------------|------------|-----------------|----------|
+| Sun | Greatest Yang | 太阳 | Tài Yáng | T'ai⁴ Yang² | Tay Yang | ㄊㄞˋ ㄧㄤˊ |
+| Moon | Bright Moon | 月亮 | Yuè Liàng | Yüeh⁴ Liang⁴ | Yweh Liawng | ㄩㄝˋ ㄌㄧㄤˋ |
+| Mercury | Water Star | 水星 | Shuǐ Xīng | Shui³ Hsing¹ | Shuey Shing | ㄕㄨㄟˇ ㄒㄧㄥ |
+| Venus | Metal Star | 金星 | Jīn Xīng | Chin¹ Hsing¹ | Jin Shing | ㄐㄧㄣ ㄒㄧㄥ |
+| Earth | Earth Sphere | 地球 | Dì Qiú | Ti⁴ Ch'iu² | Dih Chiou | ㄉㄧˋ ㄑㄧㄡˊ |
+| Mars | Fire Star | 火星 | Huǒ Xīng | Huo³ Hsing¹ | Hwo Shing | ㄏㄨㄛˇ ㄒㄧㄥ |
+| Jupiter | Wood Star | 木星 | Mù Xīng | Mu⁴ Hsing¹ | Muh Shing | ㄇㄨˋ ㄒㄧㄥ |
+| Saturn | Earth/Soil Star | 土星 | Tǔ Xīng | T'u³ Hsing¹ | Tuu Shing | ㄊㄨˇ ㄒㄧㄥ |
+| Uranus | Heaven King Star | 天王星 | Tiān Wáng Xīng | T'ien¹ Wang² Hsing¹ | Tyan Wang Shing | ㄊㄧㄢ ㄨㄤˊ ㄒㄧㄥ |
+| Neptune | Sea King Star | 海王星 | Hǎi Wáng Xīng | Hai³ Wang² Hsing¹ | Hae Wang Shing | ㄏㄞˇ ㄨㄤˊ ㄒㄧㄥ |
+| Pluto | Underworld King Star | 冥王星 | Míng Wáng Xīng | Ming² Wang² Hsing¹ | Ming Wang Shing | ㄇㄧㄥˊ ㄨㄤˊ ㄒㄧㄥ |
+| North Node | Head of the Dragon | 龙头 | Lóng Tóu | Lung² T'ou² | Long Tyou | ㄌㄨㄥˊ ㄊㄡˊ |
+| South Node | Tail of the Dragon | 龙尾 | Lóng Wěi | Lung² Wei³ | Long Weei | ㄌㄨㄥˊ ㄨㄟˇ |
 
 ***
 
