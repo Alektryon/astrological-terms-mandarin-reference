@@ -31,7 +31,7 @@
 
 | No | Name (English) | Stellar Association | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |----|----------------|---------------------|--------------|--------------|------------|-----------------|----------|
-| 1 | Greedy Wolf Star | Dubhe (α Ursae Majoris) | 贪狼星 | Tān Láng Xīng | Tan¹ Lang² Hsing¹ | Tan Lang Shiing | ㄊㄢ ㄌㄤˊ ㄒㄧㄥ |
+| 1 | Greedy Wolf Star | Dubhe (α Ursae Majoris) | 贪狼星 | Tān Láng Xīng | T'an¹ Lang² Hsing¹ | Tan Lang Shiing | ㄊㄢ ㄌㄤˊ ㄒㄧㄥ |
 | 2 | Huge Door Star | Merak (β Ursae Majoris) | 巨门星 | Jù Mén Xīng | Chü⁴ Men² Hsing¹ | Jiu Men Shiing | ㄐㄩˋ ㄇㄣˊ ㄒㄧㄥ |
 | 3 | Money Star | Phecda (γ Ursae Majoris) | 禄存星 | Lù Cún Xīng | Lu⁴ Ts'un² Hsing¹ | Lu Cun Shiing | ㄌㄨˋ ㄘㄨㄣˊ ㄒㄧㄥ |
 | 4 | Academic Star | Megrez (δ Ursae Majoris) | 文曲星 | Wén Qǔ Xīng | Wen² Ch'ü³ Hsing¹ | Wen Chiu Shiing | ㄨㄣˊ ㄑㄩˇ ㄒㄧㄥ |
@@ -114,26 +114,6 @@
 | 10. Rooster | Confident, punctual | 雞 | jī | chi¹ | ji | ㄐㄧ |
 | 11. Dog | Loyal, honest | 狗 | gǒu | kou³ | goou | ㄍㄡˇ |
 | 12. Pig | Generous, sincere | 豬 | zhū | chu¹ | ju | ㄓㄨ |
-
-***
-
-## The Sun, Moon, Planets and Lunar Nodes
-
-| Body | Meaning | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
-|------|---------|--------------|--------------|------------|-----------------|----------|
-| Sun | Greatest Yang | 太阳 | tài yáng | t'ai⁴ yang² | tay yang | ㄊㄞˋ ㄧㄤˊ |
-| Moon | Bright Moon | 月亮 | yuè liàng | yüeh⁴ liang⁴ | yweh liawng | ㄩㄝˋ ㄌㄧㄤˋ |
-| Mercury | Water Star | 水星 | shuǐ xīng | shui³ hsing¹ | shuey shing | ㄕㄨㄟˇ ㄒㄧㄥ |
-| Venus | Metal Star | 金星 | jīn xīng | chin¹ hsing¹ | jin shing | ㄐㄧㄣ ㄒㄧㄥ |
-| Earth | Earth Sphere | 地球 | dì qiú | ti⁴ ch'iu² | dih chiou | ㄉㄧˋ ㄑㄧㄡˊ |
-| Mars | Fire Star | 火星 | huǒ xīng | huo³ hsing¹ | hwo shing | ㄏㄨㄛˇ ㄒㄧㄥ |
-| Jupiter | Wood Star | 木星 | mù xīng | mu⁴ hsing¹ | muh shing | ㄇㄨˋ ㄒㄧㄥ |
-| Saturn | Earth/Soil Star | 土星 | tǔ xīng | t'u³ hsing¹ | tuu shing | ㄊㄨˇ ㄒㄧㄥ |
-| Uranus | Heaven King Star | 天王星 | tiān wáng xīng | t'ien¹ wang² hsing¹ | tyan wang shing | ㄊㄧㄢ ㄨㄤˊ ㄒㄧㄥ |
-| Neptune | Sea King Star | 海王星 | hǎi wáng xīng | hai³ wang² hsing¹ | hae wang shing | ㄏㄞˇ ㄨㄤˊ ㄒㄧㄥ |
-| Pluto | Underworld King Star | 冥王星 | míng wáng xīng | ming² wang² hsing¹ | ming wang shing | ㄇㄧㄥˊ ㄨㄤˊ ㄒㄧㄥ |
-| North Node | Head of the Dragon | 龙头 | lóng tóu | lung² t'ou² | Long Tyou | ㄌㄨㄥˊ ㄊㄡˊ |
-| South Node | Tail of the Dragon | 龙尾 | lóng wěi | lung² wei³ | Long Weei | ㄌㄨㄥˊ ㄨㄟˇ |
 
 ***
 
@@ -360,7 +340,6 @@
 
 ***
 
-
 ## Stars used in Zi Wei Dou Shu
 
 | Star (English) | Meaning (gloss) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
@@ -428,7 +407,7 @@
 | Fei Lian | Estrange Star | 飛廉 | fēi lián | fei¹ lien² | fei lian | ㄈㄟ ㄌㄧㄢˊ |
 | Po Sui | Smash to Pieces | 破碎 | pò suì | p'o⁴ sui⁴ | poh suey | ㄆㄛˋ ㄙㄨㄟˋ |
 | Tian Cai | Heavenly Talent | 天才 | tiān cái | t'ien¹ ts'ai² | tian tsair | ㄊㄧㄢ ㄘㄞˊ |
-| Tian Shou | Heavenly Longevity | 天壽 | tiān shòu | t'ien¹ shou⁴ | ㄊㄧㄢ ㄕㄡˋ | |
+| Tian Shou | Heavenly Longevity | 天壽 | tiān shòu | t'ien¹ shou⁴ | tian show | ㄊㄧㄢ ㄕㄡˋ | |
 | Xun Kong | Void of Decade | 旬空 | xún kōng | hsün² k'ung¹ | shyun kong | ㄒㄩㄣˊ ㄎㄨㄥ |
 | Bo Shi | Professor Star | 博士 | bó shì | po² shih⁴ | bor shyh | ㄅㄛˊ ㄕˋ |
 | Li Shi | Strong Man | 力士 | lì shì | li⁴ shih⁴ | lih shyh | ㄌㄧˋ ㄕˋ |
@@ -444,15 +423,12 @@
 | Di Wang | Prosperity God | 帝旺 | dì wàng | ti⁴ wang⁴ | dih wanq | ㄉㄧˋ ㄨㄤˋ |
 | Tian De | Heavenly Virtue | 天德 | tiān dé | t'ien¹ tê² | tien de | ㄊㄧㄢ ㄉㄜˊ |
 | Tian Ma | Heavenly Horse | 天马 | tiān mǎ | t'ien¹ ma³ | tien maa | ㄊㄧㄢ ㄇㄚˇ |
-| Tian Yao | Heavenly Beauty | 天姚 | tiān yáo | t'ien¹ yao² | tien yao | ㄊㄧㄢ ㄧㄠˊ |
-| Tian Yue | Heavenly Halberd | 天钺 | tiān yuè | t'ien¹ yüeh⁴ | tien yueh | ㄊㄧㄢ ㄩㄝˋ |
 | Yang Ren | Goat Blade | 羊刃 | yáng rèn | yang² jen⁴ | yang renn | ㄧㄤˊ ㄖㄣˋ |
 | Yue De | Monthly Virtue | 月德 | yuè dé | yüeh⁴ tê² | yue de | ㄩㄝˋ ㄉㄜˊ |
 | Sui Jian | The Duke | 歲建 | suì jiàn | sui⁴ chien⁴ | suey jiann | ㄙㄨㄟˋ ㄐㄧㄢˋ |
 | Hui Qi | Bad Luck | 晦氣 | huì qì | hui⁴ ch'i⁴ | huey chih | ㄏㄨㄟˋ ㄑㄧˋ |
 | Sang Men | Funeral Door | 喪門 | sàng mén | sang⁴ men² | sanq men | ㄙㄤˋ ㄇㄣˊ |
 | Guan Suo | Piercing Rope | 貫索 | guàn suǒ | kuan⁴ so³ | guann suoo | ㄍㄨㄢˋ ㄙㄨㄛˇ |
-| Guan Fu | Litigation | 官符 | guān fú | kuan¹ fu² | guan fwu | ㄍㄨㄢ ㄈㄨˊ |
 | Long De | Dragon Virtue | 龍德 | lóng dé | lung² te² | long der | ㄌㄨㄥˊ ㄉㄜˊ |
 | Bai Hu | White Tiger | 白虎 | bái hǔ | pai² hu³ | bair huu | ㄅㄞˊ ㄏㄨˇ |
 | Chang Sheng | Vitality Star | 長生 | cháng shēng | ch'ang² sheng¹ | charng sheng | ㄔㄤˊ ㄕㄥ |
@@ -461,13 +437,9 @@
 | Lin Guan | Appointment Star | 臨官 | lín guān | lin² kuan¹ | lin guan | ㄌㄧㄣˊ ㄍㄨㄢ |
 | Diao Ke | Funeral Guest | 弔客 | diào kè | tiao⁴ k'o⁴ | diaw keh | ㄉㄧㄠˋ ㄎㄜˋ |
 
-
-
-***
-
-ZWDS bibliography / sources:
+**ZWDS bibliography / sources:**
 
 - [Complete Chinese Horoscopes](https://archive.org/details/completechineseh0000kwok/mode/2up) by Man-Ho Kwok;
-- "Zi Wei Dou Shu Correspondence Course" by [Joseph Yu](https://www.astro-fengshui.com/ziwei-doushu.html);
-- "The Ten Thousand Year Calendar" by [Joey Yap](https://www.joeyyap.com/);
+- *"Zi Wei Dou Shu Correspondence Course"* by [Joseph Yu](https://www.astro-fengshui.com/ziwei-doushu.html);
+- *"The Ten Thousand Year Calendar"* by [Joey Yap](https://www.joeyyap.com/);
 - [Zi Wei Dou Shu](https://zwdsastrology.blogspot.com/) blog by Viktor;
