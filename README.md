@@ -16,14 +16,14 @@
 
 | No | Trigram | Meaning | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |----|---------|---------|--------------|--------------|------------|-----------------|----------|
-| 1 | ☰ | Heaven, The Creative | 乾 | Qián | Ch'ien² | Chyan | ㄑㄧㄢˊ |
-| 2 | ☷ | Earth, The Receptive | 坤 | Kūn | K'un¹ | Kuen | ㄎㄨㄣ |
-| 3 | ☳ | Thunder, The Arousing | 震 | Zhèn | Chen⁴ | Jenn | ㄓㄣˋ |
-| 4 | ☵ | Water, The Abyss | 坎 | Kǎn | K'an³ | Kann | ㄎㄢˇ |
-| 5 | ☶ | Mountain, Keeping Still | 艮 | Gèn | Ken⁴ | Genn | ㄍㄣˋ |
-| 6 | ☴ | Wind, The Gentle | 巽 | Xùn | Hsün⁴ | Shiunn | ㄒㄩㄣˋ |
-| 7 | ☲ | Fire, The Clinging | 離 | Lí | Li² | Lii | ㄌㄧˊ |
-| 8 | ☱ | Lake, The Joyous | 兌 | Duì | Tui⁴ | Duey | ㄉㄨㄟˋ |
+| 1 | ☰ | Heaven, The Creative | 乾 | qián | ch'ien² | chyan | ㄑㄧㄢˊ | 
+| 2 | ☷ | Earth, The Receptive | 坤 | kūn | k'un¹ | kuen | ㄎㄨㄣ | 
+| 3 | ☳ | Thunder, The Arousing | 震 | zhèn | chen⁴ | jenn | ㄓㄣˋ | 
+| 4 | ☵ | Water, The Abyss | 坎 | kǎn | k'an³ | kann | ㄎㄢˇ | 
+| 5 | ☶ | Mountain, Keeping Still | 艮 | gèn | ken⁴ | genn | ㄍㄣˋ | 
+| 6 | ☴ | Wind, The Gentle | 巽 | xùn | hsün⁴ | shiunn | ㄒㄩㄣˋ | 
+| 7 | ☲ | Fire, The Clinging | 離 | lí | li² | lii | ㄌㄧˊ | 
+| 8 | ☱ | Lake, The Joyous | 兌 | duì | tui⁴ | duey | ㄉㄨㄟˋ | 
 
 ***
 
@@ -31,15 +31,15 @@
 
 | No | Name (English) | Stellar Association | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |----|----------------|---------------------|--------------|--------------|------------|-----------------|----------|
-| 1 | Greedy Wolf Star | Dubhe (α Ursae Majoris) | 贪狼星 | Tān Láng Xīng | T'an¹ Lang² Hsing¹ | Tan Lang Shiing | ㄊㄢ ㄌㄤˊ ㄒㄧㄥ |
-| 2 | Huge Door Star | Merak (β Ursae Majoris) | 巨门星 | Jù Mén Xīng | Chü⁴ Men² Hsing¹ | Jiu Men Shiing | ㄐㄩˋ ㄇㄣˊ ㄒㄧㄥ |
-| 3 | Money Star | Phecda (γ Ursae Majoris) | 禄存星 | Lù Cún Xīng | Lu⁴ Ts'un² Hsing¹ | Lu Cun Shiing | ㄌㄨˋ ㄘㄨㄣˊ ㄒㄧㄥ |
-| 4 | Academic Star | Megrez (δ Ursae Majoris) | 文曲星 | Wén Qǔ Xīng | Wen² Ch'ü³ Hsing¹ | Wen Chiu Shiing | ㄨㄣˊ ㄑㄩˇ ㄒㄧㄥ |
-| 5 | Sickness Star | Alioth (ε Ursae Majoris) | 廉贞星 | Lián Zhēn Xīng | Lien² Chen¹ Hsing¹ | Lian Jhen Shiing | ㄌㄧㄢˊ ㄓㄣ ㄒㄧㄥ |
-| 6 | Military Arts Star | Mizar (ζ Ursae Majoris) | 武曲星 | Wǔ Qū Xīng | Wu³ Ch'ü¹ Hsing¹ | Wu Chu Shiing | ㄨˇ ㄑㄩ ㄒㄧㄥ |
-| 7 | Broken Soldier Star | Alkaid (η Ursae Majoris) | 破军星 | Pò Jūn Xīng | P'o⁴ Chün¹ Hsing¹ | Po Jun Shiing | ㄆㄛˋ ㄐㄩㄣ ㄒㄧㄥ |
-| 8 | Left Assistant Star | Auxiliary star A | 左辅星 | Zuǒ Fǔ Xīng | Tso³ Fu³ Hsing¹ | Zo Fu Shiing | ㄗㄨㄛˇ ㄈㄨˇ ㄒㄧㄥ |
-| 9 | Right Assistant Star | Auxiliary star B | 右弼星 | Yòu Bì Xīng | Yu⁴ Pi⁴ Hsing¹ | You Bih Shiing | ㄧㄡˋ ㄅㄧˋ ㄒㄧㄥ |
+| 1 | Greedy Wolf Star | Dubhe (α Ursae Majoris) | 贪狼星 | tān láng xīng | t'an¹ lang² hsing¹ | tan lang shiing | ㄊㄢ ㄌㄤˊ ㄒㄧㄥ |
+| 2 | Huge Door Star | Merak (β Ursae Majoris) | 巨门星 | jù mén xīng | chü⁴ men² hsing¹ | jiu men shiing | ㄐㄩˋ ㄇㄣˊ ㄒㄧㄥ |
+| 3 | Money Star | Phecda (γ Ursae Majoris) | 禄存星 | lù cún xīng | lu⁴ ts'un² hsing¹ | lu cun shiing | ㄌㄨˋ ㄘㄨㄣˊ ㄒㄧㄥ |
+| 4 | Academic Star | Megrez (δ Ursae Majoris) | 文曲星 | wén qǔ xīng | wen² ch'ü³ hsing¹ | wen chiu shiing | ㄨㄣˊ ㄑㄩˇ ㄒㄧㄥ |
+| 5 | Sickness Star | Alioth (ε Ursae Majoris) | 廉贞星 | lián zhēn xīng | lien² chen¹ hsing¹ | lian jhen shiing | ㄌㄧㄢˊ ㄓㄣ ㄒㄧㄥ |
+| 6 | Military Arts Star | Mizar (ζ Ursae Majoris) | 武曲星 | wǔ qū xīng | wu³ ch'ü¹ hsing¹ | wu chu shiing | ㄨˇ ㄑㄩ ㄒㄧㄥ |
+| 7 | Broken Soldier Star | Alkaid (η Ursae Majoris) | 破军星 | pò jūn xīng | p'o⁴ chün¹ hsing¹ | po jun shiing | ㄆㄛˋ ㄐㄩㄣ ㄒㄧㄥ |
+| 8 | Left Assistant Star | Auxiliary star A | 左辅星 | zuǒ fǔ xīng | tso³ fu³ hsing¹ | zo fu shiing | ㄗㄨㄛˇ ㄈㄨˇ ㄒㄧㄥ |
+| 9 | Right Assistant Star | Auxiliary star B | 右弼星 | yòu bì xīng | yu⁴ pi⁴ hsing¹ | you bih shiing | ㄧㄡˋ ㄅㄧˋ ㄒㄧㄥ |
 
 
 ***
@@ -117,67 +117,87 @@
 
 ***
 
+## The Sun, Moon, Planets and Lunar Nodes
+
+| Body | Meaning | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|------|---------|--------------|--------------|------------|-----------------|----------|
+| Sun | Greatest Yang | 太阳 | tài yáng | t'ai⁴ yang² | tay yang | ㄊㄞˋ ㄧㄤˊ |
+| Moon | Bright Moon | 月亮 | yuè liàng | yüeh⁴ liang⁴ | yweh liawng | ㄩㄝˋ ㄌㄧㄤˋ |
+| Mercury | Water Star | 水星 | shuǐ xīng | shui³ hsing¹ | shuey shing | ㄕㄨㄟˇ ㄒㄧㄥ |
+| Venus | Metal Star | 金星 | jīn xīng | chin¹ hsing¹ | jin shing | ㄐㄧㄣ ㄒㄧㄥ |
+| Earth | Earth Sphere | 地球 | dì qiú | ti⁴ ch'iu² | dih chiou | ㄉㄧˋ ㄑㄧㄡˊ |
+| Mars | Fire Star | 火星 | huǒ xīng | huo³ hsing¹ | hwo shing | ㄏㄨㄛˇ ㄒㄧㄥ |
+| Jupiter | Wood Star | 木星 | mù xīng | mu⁴ hsing¹ | muh shing | ㄇㄨˋ ㄒㄧㄥ |
+| Saturn | Earth/Soil Star | 土星 | tǔ xīng | t'u³ hsing¹ | tuu shing | ㄊㄨˇ ㄒㄧㄥ |
+| Uranus | Heaven King Star | 天王星 | tiān wáng xīng | t'ien¹ wang² hsing¹ | tyan wang shing | ㄊㄧㄢ ㄨㄤˊ ㄒㄧㄥ |
+| Neptune | Sea King Star | 海王星 | hǎi wáng xīng | hai³ wang² hsing¹ | hae wang shing | ㄏㄞˇ ㄨㄤˊ ㄒㄧㄥ |
+| Pluto | Underworld King Star | 冥王星 | míng wáng xīng | ming² wang² hsing¹ | ming wang shing | ㄇㄧㄥˊ ㄨㄤˊ ㄒㄧㄥ |
+| North Node | Head of the Dragon | 龙头 | lóng tóu | lung² t'ou² | Long Tyou | ㄌㄨㄥˊ ㄊㄡˊ |
+| South Node | Tail of the Dragon | 龙尾 | lóng wěi | lung² wei³ | Long Weei | ㄌㄨㄥˊ ㄨㄟˇ |
+
+***
+
 ## 24 Solar Terms
 
 | No | Solar Term | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |----|------------|--------------|--------------|------------|-----------------|----------|
-| 1 | Beginning of Spring | 4–5 February | 立春 | Lìchūn | Li⁴-ch'un¹ | Lihchuen | ㄌㄧˋ ㄔㄨㄣ |
-| 2 | Rain Water | 18–19 February | 雨水 | Yǔshuǐ | Yü³-shui³ | Yushuey | ㄩˇ ㄕㄨㄟˇ |
-| 3 | Awakening of Insects | 5–6 March | 惊蛰 | Jīngzhé | Ching¹-che² | Jingzhe | ㄐㄧㄥ ㄓㄜˊ |
-| 4 | Spring Equinox | 20–21 March | 春分 | Chūnfēn | Ch'un¹-fen¹ | Chuenfen | ㄔㄨㄣ ㄈㄣ |
-| 5 | Clear and Bright | 4–5 April | 清明 | Qīngmíng | Ch'ing¹-ming² | Chingming | ㄑㄧㄥ ㄇㄧㄥˊ |
-| 6 | Grain Rain | 20–21 April | 谷雨 | Gǔyǔ | Ku³-yü³ | Guuyu | ㄍㄨˇ ㄩˇ |
-| 7 | Beginning of Summer | 5–6 May | 立夏 | Lìxià | Li⁴-hsia⁴ | Lihshià | ㄌㄧˋ ㄒㄧㄚˋ |
-| 8 | Lesser Fullness of Grain | 21–22 May | 小满 | Xiǎomǎn | Hsiao³-man³ | Shiawmaan | ㄒㄧㄠˇ ㄇㄢˇ |
-| 9 | Grain in Ear | 5–6 June | 芒种 | Mángzhǒng | Mang²-chung³ | Mangjong | ㄇㄤˊ ㄓㄨㄥˇ |
-| 10 | Summer Solstice | 21–22 June | 夏至 | Xiàzhì | Hsia⁴-chih⁴ | Shiàjyh | ㄒㄧㄚˋ ㄓˋ |
-| 11 | Lesser Heat | 7–8 July | 小暑 | Xiǎoshǔ | Hsiao³-shu³ | Shiawshuu | ㄒㄧㄠˇ ㄕㄨˇ |
-| 12 | Greater Heat | 22–23 July | 大暑 | Dàshǔ | Ta⁴-shu³ | Dashuu | ㄉㄚˋ ㄕㄨˇ |
-| 13 | Beginning of Autumn | 7–8 August | 立秋 | Lìqiū | Li⁴-ch'iu¹ | Lihchiou | ㄌㄧˋ ㄑㄧㄡ |
-| 14 | End of Heat | 23–24 August | 处暑 | Chùshǔ | Ch'u⁴-shu³ | Chushuu | ㄔㄨˋ ㄕㄨˇ |
-| 15 | White Dew | 7–8 September | 白露 | Báilù | Pai²-lu⁴ | Bairluuh | ㄅㄞˊ ㄌㄨˋ |
-| 16 | Autumn Equinox | 23–24 September | 秋分 | Qiūfēn | Ch'iu¹-fen¹ | Chioufen | ㄑㄧㄡ ㄈㄣ |
-| 17 | Cold Dew | 8–9 October | 寒露 | Hánlù | Han²-lu⁴ | Hánluuh | ㄏㄢˊ ㄌㄨˋ |
-| 18 | Frost Descent | 23–24 October | 霜降 | Shuāngjiàng | Shuang¹-chiang⁴ | Shuangjiàng | ㄕㄨㄤ ㄐㄧㄤˋ |
-| 19 | Beginning of Winter | 7–8 November | 立冬 | Lìdōng | Li⁴-tung¹ | Lihdong | ㄌㄧˋ ㄉㄨㄥ |
-| 20 | Lesser Snow | 22–23 November | 小雪 | Xiǎoxuě | Hsiao³-hsüeh³ | Shiawshue | ㄒㄧㄠˇ ㄒㄩㄝˇ |
-| 21 | Greater Snow | 7–8 December | 大雪 | Dàxuě | Ta⁴-hsüeh³ | Dashue | ㄉㄚˋ ㄒㄩㄝˇ |
-| 22 | Winter Solstice | 21–22 December | 冬至 | Dōngzhì | Tung¹-chih⁴ | Dongjyh | ㄉㄨㄥ ㄓˋ |
-| 23 | Lesser Cold | 5–6 January | 小寒 | Xiǎohán | Hsiao³-han² | Shiawhan | ㄒㄧㄠˇ ㄏㄢˊ |
-| 24 | Greater Cold | 20–21 January | 大寒 | Dàhán | Ta⁴-han² | Dahan | ㄉㄚˋ ㄏㄢˊ |***
+| 1 | Beginning of Spring | 4–5 February | 立春 | lì chūn | li⁴ ch'un¹ | lih chuen | ㄌㄧˋ ㄔㄨㄣ |
+| 2 | Rain Water | 18–19 February | 雨水 | yǔ shuǐ | yü³ shui³ | yu shuey | ㄩˇ ㄕㄨㄟˇ |
+| 3 | Awakening of Insects | 5–6 March | 惊蛰 | jīng zhé | ching¹ che² | jing zhe | ㄐㄧㄥ ㄓㄜˊ |
+| 4 | Spring Equinox | 20–21 March | 春分 | chūn fēn | ch'un¹ fen¹ | chuen fen | ㄔㄨㄣ ㄈㄣ |
+| 5 | Clear and Bright | 4–5 April | 清明 | qīng míng | ch'ing¹ ming² | ching ming | ㄑㄧㄥ ㄇㄧㄥˊ |
+| 6 | Grain Rain | 20–21 April | 谷雨 | gǔ yǔ | ku³ yü³ | guu yu | ㄍㄨˇ ㄩˇ |
+| 7 | Beginning of Summer | 5–6 May | 立夏 | lì xià | li⁴ hsia⁴ | lih shià | ㄌㄧˋ ㄒㄧㄚˋ |
+| 8 | Lesser Fullness of Grain | 21–22 May | 小满 | xiǎo mǎn | hsiao³ man³ | shiaw maan | ㄒㄧㄠˇ ㄇㄢˇ |
+| 9 | Grain in Ear | 5–6 June | 芒种 | máng zhǒng | mang² chung³ | mang jong | ㄇㄤˊ ㄓㄨㄥˇ |
+| 10 | Summer Solstice | 21–22 June | 夏至 | xià zhì | hsia⁴ chih⁴ | shià jyh | ㄒㄧㄚˋ ㄓˋ |
+| 11 | Lesser Heat | 7–8 July | 小暑 | xiǎo shǔ | hsiao³ shu³ | shiaw shuu | ㄒㄧㄠˇ ㄕㄨˇ |
+| 12 | Greater Heat | 22–23 July | 大暑 | dà shǔ | ta⁴ shu³ | da shuu | ㄉㄚˋ ㄕㄨˇ |
+| 13 | Beginning of Autumn | 7–8 August | 立秋 | lì qiū | li⁴ ch'iu¹ | lih chiou | ㄌㄧˋ ㄑㄧㄡ |
+| 14 | End of Heat | 23–24 August | 处暑 | chù shǔ | ch'u⁴ shu³ | chu shuu | ㄔㄨˋ ㄕㄨˇ |
+| 15 | White Dew | 7–8 September | 白露 | bái lù | pai² lu⁴ | bair luuh | ㄅㄞˊ ㄌㄨˋ |
+| 16 | Autumn Equinox | 23–24 September | 秋分 | qiū fēn | ch'iu¹ fen¹ | chiou fen | ㄑㄧㄡ ㄈㄣ |
+| 17 | Cold Dew | 8–9 October | 寒露 | hán lù | han² lu⁴ | harn luh | ㄏㄢˊ ㄌㄨˋ |
+| 18 | Frost Descent | 23–24 October | 霜降 | shuāng jiàng | shuang¹ chiang⁴ | shuang jianq | ㄕㄨㄤ ㄐㄧㄤˋ |
+| 19 | Beginning of Winter | 7–8 November | 立冬 | lì dōng | li⁴ tung¹ | lih dong | ㄌㄧˋ ㄉㄨㄥ |
+| 20 | Lesser Snow | 22–23 November | 小雪 | xiǎo xuě | hsiao³ hsüeh³ | shiaw shue | ㄒㄧㄠˇ ㄒㄩㄝˇ |
+| 21 | Greater Snow | 7–8 December | 大雪 | dà xuě | ta⁴ hsüeh³ | da shue | ㄉㄚˋ ㄒㄩㄝˇ |
+| 22 | Winter Solstice | 21–22 December | 冬至 | dōng zhì | tung¹ chih⁴ | dong jyh | ㄉㄨㄥ ㄓˋ |
+| 23 | Lesser Cold | 5–6 January | 小寒 | xiǎo hán | hsiao³ han² | shiaw han | ㄒㄧㄠˇ ㄏㄢˊ |
+| 24 | Greater Cold | 20–21 January | 大寒 | dà hán | ta⁴ han² | da han | ㄉㄚˋ ㄏㄢˊ |
 
 ## 28 Lunar Mansions
 
 | No | Asterism / Animal | Main Star(s) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |-----|-------------------|--------------|--------------|--------------|------------|-----------------|----------|
-| 1 | Horn (Dragon's horn) | Spica (α Virginis) | 角 | Jiǎo | Chiao³ | Jeau | ㄐㄧㄠˇ |
-| 2 | Neck of the Dragon | κ, α Librae | 亢 | Kàng | K'ang⁴ | Kanq | ㄎㄤˋ |
-| 3 | Root of the Dragon | Arcturus (α Boötis) | 氐 | Dī | Ti¹ | Di | ㄉㄧ |
-| 4 | Room / House of the Dragon | π, ρ, σ, etc. Scorpii | 房 | Fáng | Fang² | Farng | ㄈㄤˊ |
-| 5 | Heart of the Dragon | Antares (α Scorpii) | 心 | Xīn | Hsin¹ | Shin | ㄒㄧㄣ |
-| 6 | Tail of the Dragon | μ, λ, ν, φ, etc. Scorpii | 尾 | Wěi | Wei³ | Wey | ㄨㄟˇ |
-| 7 | Winnowing Basket (Dragon's hind legs) | γ, δ, ε, θ Sagittarii | 箕 | Jī | Chi¹ | Jii | ㄐㄧ |
-| 8 | Dipper (Northern Ladle) | φ, σ, τ, ζ, etc. Sagittarii | 斗 | Dǒu | Tou³ | Doou | ㄉㄡˇ |
-| 9 | Ox (Black Tortoise) | β Capricorni | 牛 | Niú | Niu² | Nyou | ㄋㄧㄡˊ |
-| 10 | Maiden / Woman | ε Aquarii | 女 | Nǚ | Nü³ | Niu | ㄋㄩˇ |
-| 11 | Emptiness / Void | β Aquarii (Sadalsuud) | 虚 | Xū | Hsü¹ | Shiu | ㄒㄩ |
-| 12 | Rooftop / Roof of the house | α Aquarii (Sadalmelik) | 危 | Wēi | Wei¹ | Wey | ㄨㄟ |
-| 13 | Encampment / Chamber | γ Aquarii (Sadachbia) | 室 | Shì | Shih⁴ | Shyh | ㄕˋ |
-| 14 | Wall | α Pegasi (Markab) | 壁 | Bì | Pi⁴ | Bih | ㄅㄧˋ |
-| 15 | Legs of the White Tiger | stars of Andromeda & Pegasus | 奎 | Kuí | K'uei² | Kwei | ㄎㄨㄟˊ |
-| 16 | Bond / Tether | β Arietis (Sheratan), α Arietis (Hamal) | 婁 | Lóu | Lou² | Low | ㄌㄡˊ |
-| 17 | Stomach of the White Tiger | 35, 39 Arietis | 胃 | Wèi | Wei⁴ | Wey | ㄨㄟˋ |
-| 18 | Hairy Head (Pleiades) | Pleiades (M45, esp. Alcyone) | 昴 | Mǎo | Mao³ | Maau | ㄇㄠˇ |
-| 19 | Net / Net of stars | Hyades cluster (incl. Aldebaran α Tauri) | 畢 | Bì | Pi⁴ | Bih | ㄅㄧˋ |
-| 20 | Beak (of the Turtle) | λ, φ Orionis | 觜 | Zuǐ | Tsui³ | Tzuey | ㄗㄨㄟˇ |
-| 21 | Three Stars (Orion's Belt) | Orion's Belt (Alnitak, Alnilam, Mintaka) | 參 | Shēn | Shen¹ | Shen | ㄕㄣ |
-| 22 | Well (Vermilion Bird) | γ, δ, μ, λ Geminorum | 井 | Jǐng | Ching³ | Jeeng | ㄐㄧㄥˇ |
-| 23 | Ghosts | θ Cancri | 鬼 | Guǐ | Kuei³ | Gwey | ㄍㄨㄟˇ |
-| 24 | Willow | δ Hydrae | 柳 | Liǔ | Liu³ | Leou | ㄌㄧㄡˇ |
-| 25 | Star (bright star) | α Hydrae | 星 | Xīng | Hsing¹ | Shing | ㄒㄧㄥ |
-| 26 | Extended Net / Spread | μ Hydrae | 張 | Zhāng | Chang¹ | Jang | ㄓㄤ |
-| 27 | Wings of the Vermilion Bird | α, β Corvi | 翼 | Yì | I⁴ | Yih | ㄧˋ |
-| 28 | Chariot / Carriage | γ Corvi | 軫 | Zhěn | Chen³ | Jern | ㄓㄣˇ |
+| 1 | Horn (Dragon's horn) | Spica (α Virginis) | 角 | jiǎo | chiao³ | jeau | ㄐㄧㄠˇ |
+| 2 | Neck of the Dragon | κ, α Librae | 亢 | kàng | k'ang⁴ | kanq | ㄎㄤˋ |
+| 3 | Root of the Dragon | Arcturus (α Boötis) | 氐 | dī | ti¹ | di | ㄉㄧ |
+| 4 | Room / House of the Dragon | π, ρ, σ, etc. Scorpii | 房 | fáng | fang² | farng | ㄈㄤˊ |
+| 5 | Heart of the Dragon | Antares (α Scorpii) | 心 | xīn | hsin¹ | shin | ㄒㄧㄣ |
+| 6 | Tail of the Dragon | μ, λ, ν, φ, etc. Scorpii | 尾 | wěi | wei³ | wey | ㄨㄟˇ |
+| 7 | Winnowing Basket (Dragon's hind legs) | γ, δ, ε, θ Sagittarii | 箕 | jī | chi¹ | jii | ㄐㄧ |
+| 8 | Dipper (Northern Ladle) | φ, σ, τ, ζ, etc. Sagittarii | 斗 | dǒu | tou³ | doou | ㄉㄡˇ |
+| 9 | Ox (Black Tortoise) | β Capricorni | 牛 | niú | niu² | nyou | ㄋㄧㄡˊ |
+| 10 | Maiden / Woman | ε Aquarii | 女 | nǚ | nü³ | niu | ㄋㄩˇ |
+| 11 | Emptiness / Void | β Aquarii (Sadalsuud) | 虚 | xū | hsü¹ | shiu | ㄒㄩ |
+| 12 | Rooftop / Roof of the house | α Aquarii (Sadalmelik) | 危 | wēi | wei¹ | wey | ㄨㄟ |
+| 13 | Encampment / Chamber | γ Aquarii (Sadachbia) | 室 | shì | shih⁴ | shyh | ㄕˋ |
+| 14 | Wall | α Pegasi (Markab) | 壁 | bì | pi⁴ | bih | ㄅㄧˋ |
+| 15 | Legs of the White Tiger | stars of Andromeda & Pegasus | 奎 | kuí | k'uei² | kwei | ㄎㄨㄟˊ |
+| 16 | Bond / Tether | β Arietis (Sheratan), α Arietis (Hamal) | 婁 | lóu | lou² | low | ㄌㄡˊ |
+| 17 | Stomach of the White Tiger | 35, 39 Arietis | 胃 | wèi | wei⁴ | wey | ㄨㄟˋ |
+| 18 | Hairy Head (Pleiades) | Pleiades (M45, esp. Alcyone) | 昴 | mǎo | mao³ | maau | ㄇㄠˇ |
+| 19 | Net / Net of stars | Hyades cluster (incl. Aldebaran α Tauri) | 畢 | bì | pi⁴ | bih | ㄅㄧˋ |
+| 20 | Beak (of the Turtle) | λ, φ Orionis | 觜 | zuǐ | tsui³ | tzuey | ㄗㄨㄟˇ |
+| 21 | Three Stars (Orion's Belt) | Orion's Belt (Alnitak, Alnilam, Mintaka) | 參 | shēn | shen¹ | shen | ㄕㄣ |
+| 22 | Well (Vermilion Bird) | γ, δ, μ, λ Geminorum | 井 | jǐng | ching³ | jeeng | ㄐㄧㄥˇ |
+| 23 | Ghosts | θ Cancri | 鬼 | guǐ | kuei³ | gwey | ㄍㄨㄟˇ |
+| 24 | Willow | δ Hydrae | 柳 | liǔ | liu³ | leou | ㄌㄧㄡˇ |
+| 25 | Star (bright star) | α Hydrae | 星 | xīng | hsing¹ | shing | ㄒㄧㄥ |
+| 26 | Extended Net / Spread | μ Hydrae | 張 | zhāng | chang¹ | jang | ㄓㄤ |
+| 27 | Wings of the Vermilion Bird | α, β Corvi | 翼 | yì | i⁴ | yih | ㄧˋ |
+| 28 | Chariot / Carriage | γ Corvi | 軫 | zhěn | chen³ | jern | ㄓㄣˇ |
 
 ***
 
@@ -185,70 +205,70 @@
 
 | No | Hexagram | Meaning | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |----|----------|---------|--------------|--------------|------------|-----------------|----------|
-| 1 | ䷀ | The Creative, Heaven | 乾 | Qián | Ch'ien² | Chyan | ㄑㄧㄢˊ |
-| 2 | ䷁ | The Receptive, Earth | 坤 | Kūn | K'un¹ | Kuen | ㄎㄨㄣ |
-| 3 | ䷂ | Difficulty at the Beginning | 屯 | Zhūn | Chun¹ | Jwun | ㄓㄨㄣ |
-| 4 | ䷃ | Youthful Folly | 蒙 | Méng | Meng² | Meng | ㄇㄥˊ |
-| 5 | ䷄ | Waiting | 需 | Xū | Hsü¹ | Shiu | ㄒㄩ |
-| 6 | ䷅ | Conflict | 訟 | Sòng | Sung⁴ | Sonq | ㄙㄨㄥˋ |
-| 7 | ䷆ | The Army | 師 | Shī | Shih¹ | Shy | ㄕ |
-| 8 | ䷇ | Holding Together | 比 | Bǐ | Pi³ | Bii | ㄅㄧˇ |
-| 9 | ䷈ | Small Taming | 小畜 | Xiǎo Chù | Hsiao³ Ch'u⁴ | Sheau Chuh | ㄒㄧㄠˇ ㄔㄨˋ |
-| 10 | ䷉ | Treading | 履 | Lǚ | Lü³ | Leu | ㄌㄩˇ |
-| 11 | ䷊ | Peace | 泰 | Tài | T'ai⁴ | Tay | ㄊㄞˋ |
-| 12 | ䷋ | Obstruction | 否 | Pǐ | P'i³ | Pii | ㄆㄧˇ |
-| 13 | ䷌ | Fellowship | 同人 | Tóng Rén | T'ung² Jen² | Torng Ren | ㄊㄨㄥˊ ㄖㄣˊ |
-| 14 | ䷍ | Great Possession | 大有 | Dà Yǒu | Ta⁴ Yu³ | Dah Yeou | ㄉㄚˋ ㄧㄡˇ |
-| 15 | ䷎ | Modesty | 謙 | Qiān | Ch'ien¹ | Chian | ㄑㄧㄢ |
-| 16 | ䷏ | Enthusiasm | 豫 | Yù | Yü⁴ | Yuh | ㄩˋ |
-| 17 | ䷐ | Following | 隨 | Suí | Sui² | Swei | ㄙㄨㄟˊ |
-| 18 | ䷑ | Work on the Decayed | 蠱 | Gǔ | Ku³ | Guu | ㄍㄨˇ |
-| 19 | ䷒ | Approach | 臨 | Lín | Lin² | Lin | ㄌㄧㄣˊ |
-| 20 | ䷓ | Contemplation | 觀 | Guān | Kuan¹ | Guan | ㄍㄨㄢ |
-| 21 | ䷔ | Biting Through | 噬嗑 | Shì Kè | Shih⁴ K'o⁴ | Shyh Keh | ㄕˋ ㄎㄜˋ |
-| 22 | ䷕ | Grace | 賁 | Bì | Pi⁴ | Bih | ㄅㄧˋ |
-| 23 | ䷖ | Splitting Apart | 剝 | Bō | Po¹ | Bo | ㄅㄛ |
-| 24 | ䷗ | Return | 復 | Fù | Fu⁴ | Fuh | ㄈㄨˋ |
-| 25 | ䷘ | Innocence | 无妄 | Wú Wàng | Wu² Wang⁴ | Wu Wanq | ㄨˊ ㄨㄤˋ |
-| 26 | ䷙ | Great Taming | 大畜 | Dà Chù | Ta⁴ Ch'u⁴ | Dah Chuh | ㄉㄚˋ ㄔㄨˋ |
-| 27 | ䷚ | Nourishment | 頤 | Yí | I² | Yi | ㄧˊ |
-| 28 | ䷛ | Great Preponderance | 大過 | Dà Guò | Ta⁴ Kuo⁴ | Dah Guoh | ㄉㄚˋ ㄍㄨㄛˋ |
-| 29 | ䷜ | The Abyss | 坎 | Kǎn | K'an³ | Kann | ㄎㄢˇ |
-| 30 | ䷝ | The Clinging, Fire | 離 | Lí | Li² | Lii | ㄌㄧˊ |
-| 31 | ䷞ | Influence | 咸 | Xián | Hsien² | Shyan | ㄒㄧㄢˊ |
-| 32 | ䷟ | Duration | 恒 | Héng | Heng² | Herng | ㄏㄥˊ |
-| 33 | ䷠ | Retreat | 遯 | Dùn | Tun⁴ | Dunn | ㄉㄨㄣˋ |
-| 34 | ䷡ | Great Power | 大壯 | Dà Zhuàng | Ta⁴ Chuang⁴ | Dah Juanq | ㄉㄚˋ ㄓㄨㄤˋ |
-| 35 | ䷢ | Progress | 晉 | Jìn | Chin⁴ | Jinn | ㄐㄧㄣˋ |
-| 36 | ䷣ | Darkening of the Light | 明夷 | Míng Yí | Ming² I² | Ming Yi | ㄇㄧㄥˊ ㄧˊ |
-| 37 | ䷤ | Family | 家人 | Jiā Rén | Chia¹ Jen² | Jia Ren | ㄐㄧㄚ ㄖㄣˊ |
-| 38 | ䷥ | Opposition | 睽 | Kuí | K'uei² | Kwei | ㄎㄨㄟˊ |
-| 39 | ䷦ | Obstruction | 蹇 | Jiǎn | Chien³ | Jian | ㄐㄧㄢˇ |
-| 40 | ䷧ | Deliverance | 解 | Xiè | Hsieh⁴ | Shieh | ㄒㄧㄝˋ |
-| 41 | ䷨ | Decrease | 損 | Sǔn | Sun³ | Suen | ㄙㄨㄣˇ |
-| 42 | ䷩ | Increase | 益 | Yì | I⁴ | Yih | ㄧˋ |
-| 43 | ䷪ | Breakthrough | 夬 | Guài | Kuai⁴ | Guay | ㄍㄨㄞˋ |
-| 44 | ䷫ | Coming to Meet | 姤 | Gòu | Kou⁴ | Goh | ㄍㄡˋ |
-| 45 | ䷬ | Gathering Together | 萃 | Cuì | Ts'ui⁴ | Tswey | ㄘㄨㄟˋ |
-| 46 | ䷭ | Pushing Upward | 升 | Shēng | Sheng¹ | Sheng | ㄕㄥ |
-| 47 | ䷮ | Oppression | 困 | Kùn | K'un⁴ | Kunn | ㄎㄨㄣˋ |
-| 48 | ䷯ | The Well | 井 | Jǐng | Ching³ | Jiing | ㄐㄧㄥˇ |
-| 49 | ䷰ | Revolution | 革 | Gé | Ko² | Ger | ㄍㄜˊ |
-| 50 | ䷱ | The Cauldron | 鼎 | Dǐng | Ting³ | Diing | ㄉㄧㄥˇ |
-| 51 | ䷲ | Thunder | 震 | Zhèn | Chen⁴ | Jenn | ㄓㄣˋ |
-| 52 | ䷳ | Mountain | 艮 | Gèn | Ken⁴ | Genn | ㄍㄣˋ |
-| 53 | ䷴ | Gradual Progress | 漸 | Jiàn | Chien⁴ | Jiann | ㄐㄧㄢˋ |
-| 54 | ䷵ | Marrying Maiden | 歸妹 | Guī Mèi | Kuei¹ Mei⁴ | Gwei Mey | ㄍㄨㄟ ㄇㄟˋ |
-| 55 | ䷶ | Abundance | 豐 | Fēng | Feng¹ | Feng | ㄈㄥ |
-| 56 | ䷷ | The Wanderer | 旅 | Lǚ | Lü³ | Leu | ㄌㄩˇ |
-| 57 | ䷸ | The Gentle, Wind | 巽 | Xùn | Hsün⁴ | Shiunn | ㄒㄩㄣˋ |
-| 58 | ䷹ | The Joyous, Lake | 兌 | Duì | Tui⁴ | Duey | ㄉㄨㄟˋ |
-| 59 | ䷺ | Dispersion | 涣 | Huàn | Huan⁴ | Huann | ㄏㄨㄢˋ |
-| 60 | ䷻ | Limitation | 節 | Jié | Chieh² | Jye | ㄐㄧㄝˊ |
-| 61 | ䷼ | Inner Truth | 中孚 | Zhōng Fú | Chung¹ Fu² | Jong Fwu | ㄓㄨㄥ ㄈㄨˊ |
-| 62 | ䷽ | Small Preponderance | 小過 | Xiǎo Guò | Hsiao³ Kuo⁴ | Sheau Guoh | ㄒㄧㄠˇ ㄍㄨㄛˋ |
-| 63 | ䷾ | After Completion | 既濟 | Jì Jì | Chi⁴ Chi⁴ | Jih Jih | ㄐㄧˋ ㄐㄧˋ |
-| 64 | ䷿ | Before Completion | 未濟 | Wèi Jì | Wei⁴ Chi⁴ | Wey Jih | ㄨㄟˋ ㄐㄧˋ |
+| 1 | ䷀ | The Creative, Heaven | 乾 | qián | ch'ien² | chyan | ㄑㄧㄢˊ |
+| 2 | ䷁ | The Receptive, Earth | 坤 | kūn | k'un¹ | kuen | ㄎㄨㄣ |
+| 3 | ䷂ | Difficulty at the Beginning | 屯 | zhūn | chun¹ | jwun | ㄓㄨㄣ |
+| 4 | ䷃ | Youthful Folly | 蒙 | méng | meng² | meng | ㄇㄥˊ |
+| 5 | ䷄ | Waiting | 需 | xū | hsü¹ | shiu | ㄒㄩ |
+| 6 | ䷅ | Conflict | 訟 | sòng | sung⁴ | sonq | ㄙㄨㄥˋ |
+| 7 | ䷆ | The Army | 師 | shī | shih¹ | shy | ㄕ |
+| 8 | ䷇ | Holding Together | 比 | bǐ | pi³ | bii | ㄅㄧˇ |
+| 9 | ䷈ | Small Taming | 小畜 | xiǎo chù | hsiao³ ch'u⁴ | sheau chuh | ㄒㄧㄠˇ ㄔㄨˋ |
+| 10 | ䷉ | Treading | 履 | lǚ | lü³ | leu | ㄌㄩˇ |
+| 11 | ䷊ | Peace | 泰 | tài | t'ai⁴ | tay | ㄊㄞˋ |
+| 12 | ䷋ | Obstruction | 否 | pǐ | p'i³ | pii | ㄆㄧˇ |
+| 13 | ䷌ | Fellowship | 同人 | tóng rén | t'ung² jen² | torng ren | ㄊㄨㄥˊ ㄖㄣˊ |
+| 14 | ䷍ | Great Possession | 大有 | dà yǒu | ta⁴ yu³ | dah yeou | ㄉㄚˋ ㄧㄡˇ |
+| 15 | ䷎ | Modesty | 謙 | qiān | ch'ien¹ | chian | ㄑㄧㄢ |
+| 16 | ䷏ | Enthusiasm | 豫 | yù | yü⁴ | yuh | ㄩˋ |
+| 17 | ䷐ | Following | 隨 | suí | sui² | swei | ㄙㄨㄟˊ |
+| 18 | ䷑ | Work on the Decayed | 蠱 | gǔ | ku³ | guu | ㄍㄨˇ |
+| 19 | ䷒ | Approach | 臨 | lín | lin² | lin | ㄌㄧㄣˊ |
+| 20 | ䷓ | Contemplation | 觀 | guān | kuan¹ | guan | ㄍㄨㄢ |
+| 21 | ䷔ | Biting Through | 噬嗑 | shì kè | shih⁴ k'o⁴ | shyh keh | ㄕˋ ㄎㄜˋ |
+| 22 | ䷕ | Grace | 賁 | bì | pi⁴ | bih | ㄅㄧˋ |
+| 23 | ䷖ | Splitting Apart | 剝 | bō | po¹ | bo | ㄅㄛ |
+| 24 | ䷗ | Return | 復 | fù | fu⁴ | fuh | ㄈㄨˋ |
+| 25 | ䷘ | Innocence | 无妄 | wú wàng | wu² wang⁴ | wu wanq | ㄨˊ ㄨㄤˋ |
+| 26 | ䷙ | Great Taming | 大畜 | dà chù | ta⁴ ch'u⁴ | dah chuh | ㄉㄚˋ ㄔㄨˋ |
+| 27 | ䷚ | Nourishment | 頤 | yí | i² | yi | ㄧˊ |
+| 28 | ䷛ | Great Preponderance | 大過 | dà guò | ta⁴ kuo⁴ | dah guoh | ㄉㄚˋ ㄍㄨㄛˋ |
+| 29 | ䷜ | The Abyss | 坎 | kǎn | k'an³ | kann | ㄎㄢˇ |
+| 30 | ䷝ | The Clinging, Fire | 離 | lí | li² | lii | ㄌㄧˊ |
+| 31 | ䷞ | Influence | 咸 | xián | hsien² | shyan | ㄒㄧㄢˊ |
+| 32 | ䷟ | Duration | 恒 | héng | heng² | herng | ㄏㄥˊ |
+| 33 | ䷠ | Retreat | 遯 | dùn | tun⁴ | dunn | ㄉㄨㄣˋ |
+| 34 | ䷡ | Great Power | 大壯 | dà zhuàng | ta⁴ chuang⁴ | dah juanq | ㄉㄚˋ ㄓㄨㄤˋ |
+| 35 | ䷢ | Progress | 晉 | jìn | chin⁴ | jinn | ㄐㄧㄣˋ |
+| 36 | ䷣ | Darkening of the Light | 明夷 | míng yí | ming² i² | ming yi | ㄇㄧㄥˊ ㄧˊ |
+| 37 | ䷤ | Family | 家人 | jiā rén | chia¹ jen² | jia ren | ㄐㄧㄚ ㄖㄣˊ |
+| 38 | ䷥ | Opposition | 睽 | kuí | k'uei² | kwei | ㄎㄨㄟˊ |
+| 39 | ䷦ | Obstruction | 蹇 | jiǎn | chien³ | jian | ㄐㄧㄢˇ |
+| 40 | ䷧ | Deliverance | 解 | xiè | hsieh⁴ | shieh | ㄒㄧㄝˋ |
+| 41 | ䷨ | Decrease | 損 | sǔn | sun³ | suen | ㄙㄨㄣˇ |
+| 42 | ䷩ | Increase | 益 | yì | i⁴ | yih | ㄧˋ |
+| 43 | ䷪ | Breakthrough | 夬 | guài | kuai⁴ | guay | ㄍㄨㄞˋ |
+| 44 | ䷫ | Coming to Meet | 姤 | gòu | kou⁴ | goh | ㄍㄡˋ |
+| 45 | ䷬ | Gathering Together | 萃 | cuì | ts'ui⁴ | tswey | ㄘㄨㄟˋ |
+| 46 | ䷭ | Pushing Upward | 升 | shēng | sheng¹ | sheng | ㄕㄥ |
+| 47 | ䷮ | Oppression | 困 | kùn | k'un⁴ | kunn | ㄎㄨㄣˋ |
+| 48 | ䷯ | The Well | 井 | jǐng | ching³ | jiing | ㄐㄧㄥˇ |
+| 49 | ䷰ | Revolution | 革 | gé | ko² | ger | ㄍㄜˊ |
+| 50 | ䷱ | The Cauldron | 鼎 | dǐng | ting³ | diing | ㄉㄧㄥˇ |
+| 51 | ䷲ | Thunder | 震 | zhèn | chen⁴ | jenn | ㄓㄣˋ |
+| 52 | ䷳ | Mountain | 艮 | gèn | ken⁴ | genn | ㄍㄣˋ |
+| 53 | ䷴ | Gradual Progress | 漸 | jiàn | chien⁴ | jiann | ㄐㄧㄢˋ |
+| 54 | ䷵ | Marrying Maiden | 歸妹 | guī mèi | kuei¹ mei⁴ | gwei mey | ㄍㄨㄟ ㄇㄟˋ |
+| 55 | ䷶ | Abundance | 豐 | fēng | feng¹ | feng | ㄈㄥ |
+| 56 | ䷷ | The Wanderer | 旅 | lǚ | lü³ | leu | ㄌㄩˇ |
+| 57 | ䷸ | The Gentle, Wind | 巽 | xùn | hsün⁴ | shiunn | ㄒㄩㄣˋ |
+| 58 | ䷹ | The Joyous, Lake | 兌 | duì | tui⁴ | duey | ㄉㄨㄟˋ |
+| 59 | ䷺ | Dispersion | 涣 | huàn | huan⁴ | huann | ㄏㄨㄢˋ |
+| 60 | ䷻ | Limitation | 節 | jié | chieh² | jye | ㄐㄧㄝˊ |
+| 61 | ䷼ | Inner Truth | 中孚 | zhōng fú | chung¹ fu² | jong fwu | ㄓㄨㄥ ㄈㄨˊ |
+| 62 | ䷽ | Small Preponderance | 小過 | xiǎo guò | hsiao³ kuo⁴ | sheau guoh | ㄒㄧㄠˇ ㄍㄨㄛˋ |
+| 63 | ䷾ | After Completion | 既濟 | jì jì | chi⁴ chi⁴ | jih jih | ㄐㄧˋ ㄐㄧˋ |
+| 64 | ䷿ | Before Completion | 未濟 | wèi jì | wei⁴ chi⁴ | wey jih | ㄨㄟˋ ㄐㄧˋ |
 
 ***
 
