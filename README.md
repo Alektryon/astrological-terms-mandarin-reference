@@ -31,15 +31,15 @@
 
 | No | Name (English) | Stellar Association | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |----|----------------|---------------------|--------------|--------------|------------|-----------------|----------|
-| 1 | Greedy Wolf Star | Dubhe (α Ursae Majoris) | 贪狼星 | tān láng xīng | t'an¹ lang² hsing¹ | tan lang shiing | ㄊㄢ ㄌㄤˊ ㄒㄧㄥ |
-| 2 | Huge Door Star | Merak (β Ursae Majoris) | 巨门星 | jù mén xīng | chü⁴ men² hsing¹ | jiu men shiing | ㄐㄩˋ ㄇㄣˊ ㄒㄧㄥ |
-| 3 | Money Star | Phecda (γ Ursae Majoris) | 禄存星 | lù cún xīng | lu⁴ ts'un² hsing¹ | lu cun shiing | ㄌㄨˋ ㄘㄨㄣˊ ㄒㄧㄥ |
-| 4 | Academic Star | Megrez (δ Ursae Majoris) | 文曲星 | wén qǔ xīng | wen² ch'ü³ hsing¹ | wen chiu shiing | ㄨㄣˊ ㄑㄩˇ ㄒㄧㄥ |
-| 5 | Sickness Star | Alioth (ε Ursae Majoris) | 廉贞星 | lián zhēn xīng | lien² chen¹ hsing¹ | lian jhen shiing | ㄌㄧㄢˊ ㄓㄣ ㄒㄧㄥ |
-| 6 | Military Arts Star | Mizar (ζ Ursae Majoris) | 武曲星 | wǔ qū xīng | wu³ ch'ü¹ hsing¹ | wu chu shiing | ㄨˇ ㄑㄩ ㄒㄧㄥ |
-| 7 | Broken Soldier Star | Alkaid (η Ursae Majoris) | 破军星 | pò jūn xīng | p'o⁴ chün¹ hsing¹ | po jun shiing | ㄆㄛˋ ㄐㄩㄣ ㄒㄧㄥ |
-| 8 | Left Assistant Star | Auxiliary star A | 左辅星 | zuǒ fǔ xīng | tso³ fu³ hsing¹ | zo fu shiing | ㄗㄨㄛˇ ㄈㄨˇ ㄒㄧㄥ |
-| 9 | Right Assistant Star | Auxiliary star B | 右弼星 | yòu bì xīng | yu⁴ pi⁴ hsing¹ | you bih shiing | ㄧㄡˋ ㄅㄧˋ ㄒㄧㄥ |
+| 1 | Greedy Wolf Star | Dubhe (α Ursae Majoris) | 贪狼星 | tān láng xīng | t'an¹ lang² hsing¹ | tan lang shing | ㄊㄢ ㄌㄤˊ ㄒㄧㄥ |
+| 2 | Huge Door Star | Merak (β Ursae Majoris) | 巨门星 | jù mén xīng | chü⁴ men² hsing¹ | jiuh men shing | ㄐㄩˋ ㄇㄣˊ ㄒㄧㄥ |
+| 3 | Money Star | Phecda (γ Ursae Majoris) | 禄存星 | lù cún xīng | lu⁴ ts'un² hsing¹ | luh tswen shing | ㄌㄨˋ ㄘㄨㄣˊ ㄒㄧㄥ |
+| 4 | Academic Star | Megrez (δ Ursae Majoris) | 文曲星 | wén qǔ xīng | wen² ch'ü³ hsing¹ | wen chiu shing | ㄨㄣˊ ㄑㄩˇ ㄒㄧㄥ |
+| 5 | Sickness Star | Alioth (ε Ursae Majoris) | 廉贞星 | lián zhēn xīng | lien² chen¹ hsing¹ | lian jhen shing | ㄌㄧㄢˊ ㄓㄣ ㄒㄧㄥ |
+| 6 | Military Arts Star | Mizar (ζ Ursae Majoris) | 武曲星 | wǔ qū xīng | wu³ ch'ü¹ hsing¹ | wuu chiu shing | ㄨˇ ㄑㄩ ㄒㄧㄥ |
+| 7 | Broken Soldier Star | Alkaid (η Ursae Majoris) | 破军星 | pò jūn xīng | p'o⁴ chün¹ hsing¹ | poh jiun shing | ㄆㄛˋ ㄐㄩㄣ ㄒㄧㄥ |
+| 8 | Left Assistant Star | Auxiliary star A | 左辅星 | zuǒ fǔ xīng | tso³ fu³ hsing¹ | tzuoo fuu shing | ㄗㄨㄛˇ ㄈㄨˇ ㄒㄧㄥ |
+| 9 | Right Assistant Star | Auxiliary star B | 右弼星 | yòu bì xīng | yu⁴ pi⁴ hsing¹ | yow bih shing | ㄧㄡˋ ㄅㄧˋ ㄒㄧㄥ |
 
 
 ***
@@ -462,4 +462,4 @@
 - [Complete Chinese Horoscopes](https://archive.org/details/completechineseh0000kwok/mode/2up) by Man-Ho Kwok;
 - *"Zi Wei Dou Shu Correspondence Course"* by [Joseph Yu](https://www.astro-fengshui.com/ziwei-doushu.html);
 - *"The Ten Thousand Year Calendar"* by [Joey Yap](https://www.joeyyap.com/);
-- [Zi Wei Dou Shu](https://zwdsastrology.blogspot.com/) blog by Viktor
+- [Zi Wei Dou Shu](https://zwdsastrology.blogspot.com/) blog by Viktor;
