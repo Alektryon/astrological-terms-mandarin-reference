@@ -362,8 +362,8 @@
 
 ## Stars used in Zi Wei Dou Shu
 
-| No | Star (English) | Meaning (gloss) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
-|----|----------------|-----------------|--------------|--------------|------------|-----------------|----------|
+| No | Star | Meaning (gloss) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|----|------|-----------------|--------------|--------------|------------|-----------------|----------|
 | 1 | Zi Wei | Purple Star | 紫微 | zǐ wēi | tzu³ wei¹ | tzyy uei | ㄗˇ ㄨㄟ |
 | 2 | Tian Ji | Heavenly Secret | 天机 | tiān jī | t'ien¹ chi¹ | tien ji | ㄊㄧㄢ ㄐㄧ |
 | 3 | Tai Yang | The Sun | 太阳 | tài yáng | t'ai⁴ yang² | tay yang | ㄊㄞˋ ㄧㄤˊ |
