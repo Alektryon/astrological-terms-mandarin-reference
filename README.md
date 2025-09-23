@@ -364,6 +364,10 @@
 
 | No | Star (English) | Meaning (gloss) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |----|----------------|-----------------|--------------|--------------|------------|-----------------|----------|
+## Stars used in Zi Wei Dou Shu
+
+| No | Star (English) | Meaning (gloss) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|----|----------------|-----------------|--------------|--------------|------------|-----------------|----------|
 | 1 | Zi Wei | Purple Star | 紫微 | zǐ wēi | tzu³ wei¹ | tzyy uei | ㄗˇ ㄨㄟ |
 | 2 | Tian Ji | Heavenly Secret | 天機 | tiān jī | t'ien¹ chi¹ | tian ji | ㄊㄧㄢ ㄐㄧ |
 | 3 | Tai Yang | The Sun | 太陽 | tài yáng | t'ai⁴ yang² | tay yang | ㄊㄞˋ ㄧㄤˊ |
@@ -480,7 +484,7 @@
 
 **ZWDS bibliography / sources:**
 
-- [American Feng Shui Institute](https://www.amfengshui.com/) Zi Wei Dou Shu online course;
+- [American Feng Shui Institute](https://www.amfengshui.com/) Zi Wei Dou Shu course;
 - [Complete Chinese Horoscopes](https://archive.org/details/completechineseh0000kwok/mode/2up) by Man-Ho Kwok;
 - *"Zi Wei Dou Shu Correspondence Course"* by [Joseph Yu](https://www.astro-fengshui.com/ziwei-doushu.html);
 - *"The Ten Thousand Year Calendar"* by [Joey Yap](https://www.joeyyap.com/);
@@ -490,4 +494,8 @@
 
 **Please Note:**
 
-Particularly in this last list, it is certain that some entries contain *traditional* Chinese characters, while others contain *simplified* Chinese characters. One such case can be found in the names of the stars no. 27 (月馬 yuè mǎ), no. 49 (命马 mìng mǎ) and no. 79 (天马 tiān mǎ). The first name contains the traditional character for "horse" (馬) while the other two contain the simplified character (马). It can also happen, eventually, that some entries contain both a simplified and a traditional character. As I'm very far from being a specialist or even a fluent speaker of Mandarin Chinese (or any other Chinese dialect), it may happen that some entries contain errors. If you happen to find any such error and would like to see it corrected, please send me an email to **qwirinus [at] proton [dot] me**.
+Particularly in this last list, it is certain that some entries contain *traditional* Chinese characters, while others contain *simplified* Chinese characters. One such case can be found in the names of the stars no. 27 (月馬 yuè mǎ) and no. 49 (命马 mìng mǎ). The former name contains the traditional character for "horse" (馬) while the latter contains the simplified character (马).
+
+Finally, please note that I'm very far from being a 'specialist' or even a fluent speaker of Chinese, so some entries may contain errors.
+
+If you find any error that you would like to see corrected, please send me an email to **quirinus [at] proton [dot] me**.
