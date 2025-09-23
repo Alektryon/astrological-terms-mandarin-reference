@@ -362,8 +362,8 @@
 
 ## Stars used in Zi Wei Dou Shu
 
-| No | Star | Meaning (gloss) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
-|----|------|-----------------|--------------|--------------|------------|-----------------|----------|
+| No | Star (English) | Meaning (gloss) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|----|----------------|-----------------|--------------|--------------|------------|-----------------|----------|
 | 1 | Zi Wei | Purple Star | 紫微 | zǐ wēi | tzu³ wei¹ | tzyy uei | ㄗˇ ㄨㄟ |
 | 2 | Tian Ji | Heavenly Secret | 天機 | tiān jī | t'ien¹ chi¹ | tian ji | ㄊㄧㄢ ㄐㄧ |
 | 3 | Tai Yang | The Sun | 太陽 | tài yáng | t'ai⁴ yang² | tay yang | ㄊㄞˋ ㄧㄤˊ |
@@ -404,14 +404,14 @@
 | 38 | Tuo Luo | Burden Basket | 陀羅 | tuó luó | t'o² lo² | two luo | ㄊㄨㄛˊ ㄌㄨㄛˊ |
 | 39 | Tian Kui | Heavenly Leader | 天魁 | tiān kuí | t'ien¹ k'uei² | tian kwei | ㄊㄧㄢ ㄎㄨㄟˊ |
 | 40 | Tian Yue | Heavenly Halberd | 天鉞 | tiān yuè | t'ien¹ yüeh⁴ | tian yueh | ㄊㄧㄢ ㄩㄝˋ |
-| 41 | Tian Guan | Heavenly Officer | 天官 | tiān guān | t'ien¹ kuan¹ | tian guan | ㄊㄧㄢ ㄍㄨㄢ |
-| 42 | Tian Fu | Heavenly Treasurer | 天褔 | tiān fú | t'ien¹ fu² | tian fwu | ㄊㄧㄢ ㄈㄨˊ |
-| 43 | Jie Lu | Obstruction Star | 截路 | jié lù | chieh² lu⁴ | jye luh | ㄐㄧㄝˊ ㄌㄨˋ |
+| 41 | Tian Guan | Heavenly Official | 天官 | tiān guān | t'ien¹ kuan¹ | tian guan | ㄊㄧㄢ ㄍㄨㄢ |
+| 42 | Tian Fu | Heavenly Blessing | 天褔 | tiān fú | t'ien¹ fu² | tian fwu | ㄊㄧㄢ ㄈㄨˊ |
+| 43 | Jie Lu | Severed Path | 截路 | jié lù | chieh² lu⁴ | jye luh | ㄐㄧㄝˊ ㄌㄨˋ |
 | 44 | Kong Wang | Void / Emptiness | 空亡 | kōng wáng | k'ung¹ wang² | kong wang | ㄎㄨㄥ ㄨㄤˊ |
-| 45 | Hua Lu | Transforming into Annoyance | 化祿 | huà lù | hua⁴ lu⁴ | huah luh | ㄏㄨㄚˋ ㄌㄨˋ |
-| 46 | Hua Quan | Transforming into Fame | 化權 | huà quán | hua⁴ ch'üan² | huah chyuan | ㄏㄨㄚˋ ㄑㄩㄢˊ |
-| 47 | Hua Ke | Transforming into Prosperity | 化科 | huà kē | hua⁴ k'o¹ | huah ke | ㄏㄨㄚˋ ㄎㄜ |
-| 48 | Hua Ji | Transforming into Authority | 化忌 | huà jì | hua⁴ chi⁴ | huah jih | ㄏㄨㄚˋ ㄐㄧˋ |
+| 45 | Hua Lu | Transforms into Salary | 化祿 | huà lù | hua⁴ lu⁴ | huah luh | ㄏㄨㄚˋ ㄌㄨˋ |
+| 46 | Hua Quan | Transforms into Authority | 化權 | huà quán | hua⁴ ch'üan² | huah chyuan | ㄏㄨㄚˋ ㄑㄩㄢˊ |
+| 47 | Hua Ke | Transforms into Fame | 化科 | huà kē | hua⁴ k'o¹ | huah ke | ㄏㄨㄚˋ ㄎㄜ |
+| 48 | Hua Ji | Transforms into Trouble | 化忌 | huà jì | hua⁴ chi⁴ | huah jih | ㄏㄨㄚˋ ㄐㄧˋ |
 | 49 | Ming Ma | Destiny Horse | 命馬 | mìng mǎ | ming⁴ ma³ | minq maa | ㄇㄧㄥˋ ㄇㄚˇ |
 | 50 | Hua Gai | Elegant Cover | 華蓋 | huá gài | hua² kai⁴ | hwa gay | ㄏㄨㄚˊ ㄍㄞˋ |
 | 51 | Tian Kong | Heavenly Void | 天空 | tiān kōng | t'ien¹ k'ung¹ | tian kong | ㄊㄧㄢ ㄎㄨㄥ |
@@ -419,68 +419,68 @@
 | 53 | Tian Xu | Heavenly Sadness | 天虛 | tiān xū | t'ien¹ hsü¹ | tian shiu | ㄊㄧㄢ ㄒㄩ |
 | 54 | Hong Luan | Red Phoenix | 紅鸞 | hóng luán | hung² luan² | horng luan | ㄏㄨㄥˊ ㄌㄨㄢˊ |
 | 55 | Tian Xi | Heavenly Happiness | 天喜 | tiān xǐ | t'ien¹ hsi³ | tian shii | ㄊㄧㄢ ㄒㄧˇ |
-| 56 | Gu Chen | Solitary | 孤辰 | gū chén | ku¹ ch'en² | gu chern | ㄍㄨ ㄔㄣˊ |
-| 57 | Gua Su | Lonesome | 寡宿 | guǎ sù | kua³ su⁴ | goa suh | ㄍㄨㄚˇ ㄙㄨˋ |
-| 58 | Xian Chi | Pool of Desire | 咸池 | xián chí | hsien² ch'ih² | shyan chyr | ㄒㄧㄢˊ ㄔˊ |
+| 56 | Gu Chen | Solitary Time | 孤辰 | gū chén | ku¹ ch'en² | gu chern | ㄍㄨ ㄔㄣˊ |
+| 57 | Gua Su | Widow’s Lodge | 寡宿 | guǎ sù | kua³ su⁴ | goa suh | ㄍㄨㄚˇ ㄙㄨˋ |
+| 58 | Xian Chi | Temptation Pool | 咸池 | xián chí | hsien² ch'ih² | shyan chyr | ㄒㄧㄢˊ ㄔˊ |
 | 59 | Long Chi | Dragon Pool | 龍池 | lóng chí | lung² ch'ih² | long chyr | ㄌㄨㄥˊ ㄔˊ |
-| 60 | Feng Ge | Phoenix Pavilion | 鳳閣 | fèng gé | feng⁴ ko² | fenq ger | ㄈㄥˋ ㄍㄜˊ |
-| 61 | Fei Lian | Estrange Star | 蜚廉 | fēi lián | fei¹ lien² | fei lian | ㄈㄟ ㄌㄧㄢˊ |
-| 62 | Po Sui | Possible | 破碎 | pò suì | p'o⁴ sui⁴ | poh suey | ㄆㄛˋ ㄙㄨㄟˋ |
+| 60 | Feng Ge | Phoenix Chamber | 鳳閣 | fèng gé | feng⁴ ko² | fenq ger | ㄈㄥˋ ㄍㄜˊ |
+| 61 | Fei Lian | Flying Sha | 蜚廉 | fēi lián | fei¹ lien² | fei lian | ㄈㄟ ㄌㄧㄢˊ |
+| 62 | Po Sui | Break and Shatter | 破碎 | pò suì | p'o⁴ sui⁴ | poh suey | ㄆㄛˋ ㄙㄨㄟˋ |
 | 63 | Tian Cai | Heavenly Talent | 天才 | tiān cái | t'ien¹ ts'ai² | tian tsair | ㄊㄧㄢ ㄘㄞˊ |
 | 64 | Tian Shou | Heavenly Longevity | 天壽 | tiān shòu | t'ien¹ shou⁴ | tian shonq | ㄊㄧㄢ ㄕㄡˋ |
-| 65 | Xun Kong | Void of Decade | 旬空 | xún kōng | hsün² k'ung¹ | shyun kong | ㄒㄩㄣˊ ㄎㄨㄥ |
-| 66 | Bo Shi | Professor Star | 博士 | bó shì | po² shih⁴ | bor shyh | ㄅㄛˊ ㄕˋ |
-| 67 | Li Shi | Strong Man | 力士 | lì shì | li⁴ shih⁴ | lih shyh | ㄌㄧˋ ㄕˋ |
+| 65 | Xun Kong | Ten-Year Void | 旬空 | xún kōng | hsün² k'ung¹ | shyun kong | ㄒㄩㄣˊ ㄎㄨㄥ |
+| 66 | Bo Shi | Great Scholar | 博士 | bó shì | po² shih⁴ | bor shyh | ㄅㄛˊ ㄕˋ |
+| 67 | Li Shi | Powerful Person | 力士 | lì shì | li⁴ shih⁴ | lih shyh | ㄌㄧˋ ㄕˋ |
 | 68 | Qing Long | Azure Dragon | 青龍 | qīng lóng | ch'ing¹ lung² | ching long | ㄑㄧㄥ ㄌㄨㄥˊ |
-| 69 | Xiao Hao | Minor Loss | 小耗 | xiǎo hào | hsiao³ hao⁴ | sheau haw | ㄒㄧㄠˇ ㄏㄠˋ |
-| 70 | Jiang Jun | General | 將軍 | jiāng jūn | chiang¹ chün¹ | jiang jiun | ㄐㄧㄤ ㄐㄩㄣ |
-| 71 | Zou Shu | Memorial | 奏書 | zòu shū | tsou⁴ shu¹ | tzow shou | ㄗㄡˋ ㄕㄨ |
+| 69 | Xiao Hao | Small Consumer | 小耗 | xiǎo hào | hsiao³ hao⁴ | sheau haw | ㄒㄧㄠˇ ㄏㄠˋ |
+| 70 | Jiang Jun | Army General | 將軍 | jiāng jūn | chiang¹ chün¹ | jiang jiun | ㄐㄧㄤ ㄐㄩㄣ |
+| 71 | Zou Shu | Written Report | 奏書 | zòu shū | tsou⁴ shu¹ | tzow shou | ㄗㄡˋ ㄕㄨ |
 | 72 | Fei Lian | Flying Lian | 飛廉 | fēi lián | fei¹ lien² | fei lian | ㄈㄟ ㄌㄧㄢˊ |
 | 73 | Xi Shen | God of Joy | 喜神 | xǐ shén | hsi³ shen² | shii shern | ㄒㄧˇ ㄕㄣˊ |
 | 74 | Bing Fu | Sickness Symbol | 病符 | bìng fú | ping⁴ fu² | binq fwu | ㄅㄧㄥˋ ㄈㄨˊ |
-| 75 | Da Hao | Great Loss | 大耗 | dà hào | ta⁴ hao⁴ | dah haw | ㄉㄚˋ ㄏㄠˋ |
+| 75 | Da Hao | Big Consumer | 大耗 | dà hào | ta⁴ hao⁴ | dah haw | ㄉㄚˋ ㄏㄠˋ |
 | 76 | Fu Bing | Ambush | 伏兵 | fú bīng | fu² ping¹ | fwu bing | ㄈㄨˊ ㄅㄧㄥ |
-| 77 | Guan Fu | Government | 官府 | guān fǔ | kuan¹ fu³ | guan fuu | ㄍㄨㄢ ㄈㄨˇ |
-| 78 | Chang Sheng | Longevity | 長生 | cháng shēng | ch'ang² sheng¹ | charng sheng | ㄔㄤˊ ㄕㄥ |
-| 79 | Mu Yu | Bath | 沐浴 | mù yù | mu⁴ yü⁴ | muh yuh | ㄇㄨˋ ㄩˋ |
-| 80 | Guan Dai | Crown | 冠帶 | guān dài | kuan¹ tai⁴ | guan day | ㄍㄨㄢ ㄉㄞˋ |
+| 77 | Guan Fu | Official Capital | 官府 | guān fǔ | kuan¹ fu³ | guan fuu | ㄍㄨㄢ ㄈㄨˇ |
+| 78 | Chang Sheng | Long Life | 長生 | cháng shēng | ch'ang² sheng¹ | charng sheng | ㄔㄤˊ ㄕㄥ |
+| 79 | Mu Yu | Wash and Bathe | 沐浴 | mù yù | mu⁴ yü⁴ | muh yuh | ㄇㄨˋ ㄩˋ |
+| 80 | Guan Dai | Hat and Belt | 冠帶 | guān dài | kuan¹ tai⁴ | guan day | ㄍㄨㄢ ㄉㄞˋ |
 | 81 | Lin Guan | Appointment Star | 臨官 | lín guān | lin² kuan¹ | lin guan | ㄌㄧㄣˊ ㄍㄨㄢ |
 | 82 | Di Wang | Prosperity God | 帝旺 | dì wàng | ti⁴ wang⁴ | dih wanq | ㄉㄧˋ ㄨㄤˋ |
 | 83 | Shuai | Decline | 衰 | shuāi | shuai¹ | shua | ㄕㄨㄞ |
 | 84 | Bing | Sickness | 病 | bìng | ping⁴ | binq | ㄅㄧㄥˋ |
 | 85 | Si | Death | 死 | sǐ | ssu³ | syy | ㄙˇ |
-| 86 | Mu | Tomb | 墓 | mù | mu⁴ | muh | ㄇㄨˋ |
-| 87 | Jue | Extinction | 絕 | jué | chüeh² | jyue | ㄐㄩㄝˊ |
-| 88 | Tai | Fetus | 胎 | tāi | t'ai¹ | tai | ㄊㄞ |
+| 86 | Mu | Grave | 墓 | mù | mu⁴ | muh | ㄇㄨˋ |
+| 87 | Jue | Exhausted | 絕 | jué | chüeh² | jyue | ㄐㄩㄝˊ |
+| 88 | Tai | Pregnancy | 胎 | tāi | t'ai¹ | tai | ㄊㄞ |
 | 89 | Yang | Nourishing | 養 | yǎng | yang³ | yeang | ㄧㄤˇ |
 | 90 | Sui Jian | Year Builder | 歲建 | suì jiàn | sui⁴ chien⁴ | suey jiann | ㄙㄨㄟˋ ㄐㄧㄢˋ |
-| 91 | Hui Qi | Unlucky | 晦氣 | huì qì | hui⁴ ch'i⁴ | huey chih | ㄏㄨㄟˋ ㄑㄧˋ |
-| 92 | Sang Men | Death Gate | 喪門 | sāng mén | sang¹ men² | sang men | ㄙㄤ ㄇㄣˊ |
+| 91 | Hui Qi | Dark Qi | 晦氣 | huì qì | hui⁴ ch'i⁴ | huey chih | ㄏㄨㄟˋ ㄑㄧˋ |
+| 92 | Sang Men | Funeral Gate | 喪門 | sāng mén | sang¹ men² | sang men | ㄙㄤ ㄇㄣˊ |
 | 93 | Guan Suo | Piercing Rope | 貫索 | guàn suǒ | kuan⁴ so³ | guann suoo | ㄍㄨㄢˋ ㄙㄨㄛˇ |
-| 94 | Guan Fu | Government | 官府 | guān fǔ | kuan¹ fu³ | guan fuu | ㄍㄨㄢ ㄈㄨˇ |
+| 94 | Guan Fu | Closed by Official Order | 官府 | guān fǔ | kuan¹ fu³ | guan fuu | ㄍㄨㄢ ㄈㄨˇ |
 | 95 | Xiao Hao | Minor Loss | 小耗 | xiǎo hào | hsiao³ hao⁴ | sheau haw | ㄒㄧㄠˇ ㄏㄠˋ |
 | 96 | Da Hao | Great Loss | 大耗 | dà hào | ta⁴ hao⁴ | dah haw | ㄉㄚˋ ㄏㄠˋ |
 | 97 | Long De | Dragon Virtue | 龍德 | lóng dé | lung² te² | long der | ㄌㄨㄥˊ ㄉㄜˊ |
 | 98 | Bai Hu | White Tiger | 白虎 | bái hǔ | pai² hu³ | bair huu | ㄅㄞˊ ㄏㄨˇ |
 | 99 | Tian De | Heavenly Virtue | 天德 | tiān dé | t'ien¹ te² | tian der | ㄊㄧㄢ ㄉㄜˊ |
-| 100 | Diao Ke | Mourning Guest | 弔客 | diào kè | tiao⁴ k'o⁴ | diaw keh | ㄉㄧㄠˋ ㄎㄜˋ |
+| 100 | Diao Ke | Funeral Attendant | 弔客 | diào kè | tiao⁴ k'o⁴ | diaw keh | ㄉㄧㄠˋ ㄎㄜˋ |
 | 101 | Bing Fu | Sickness Symbol | 病符 | bìng fú | ping⁴ fu² | binq fwu | ㄅㄧㄥˋ ㄈㄨˊ |
-| 102 | Jiang Xing | General Star | 將星 | jiāng xīng | chiang¹ hsing¹ | jiang shing | ㄐㄧㄤ ㄒㄧㄥ |
+| 102 | Jiang Xing | Army General Star | 將星 | jiāng xīng | chiang¹ hsing¹ | jiang shing | ㄐㄧㄤ ㄒㄧㄥ |
 | 103 | Pan An | Climbing Saddle | 攀鞍 | pān ān | p'an¹ an¹ | pan an | ㄆㄢ ㄢ |
 | 104 | Sui Yi | Year Way-Station | 歲驛 | suì yì | sui⁴ i⁴ | suey yih | ㄙㄨㄟˋ ㄧˋ |
-| 105 | Xi Shen | Respite | 息神 | xī shén | hsi¹ shen² | shi shern | ㄒㄧ ㄕㄣˊ |
+| 105 | Xi Shen | Resting Spirit | 息神 | xī shén | hsi¹ shen² | shi shern | ㄒㄧ ㄕㄣˊ |
 | 106 | Hua Gai | Carriage Canopy | 華蓋 | huá gài | hua² kai⁴ | hwa gay | ㄏㄨㄚˊ ㄍㄞˋ |
-| 107 | Jie Sha | Robbery | 劫煞 | jié shā | chieh² sha¹ | jye sha | ㄐㄧㄝˊ ㄕㄚ |
-| 108 | Zai Sha | Disaster | 災煞 | zāi shā | tsai¹ sha¹ | tzai sha | ㄗㄞ ㄕㄚ |
-| 109 | Tian Sha | Heavenly Evil | 天煞 | tiān shā | t'ien¹ sha¹ | tian sha | ㄊㄧㄢ ㄕㄚ |
-| 110 | Zhi Bei | Pointing Back | 指背 | zhǐ bèi | chih³ pei⁴ | jyy bey | ㄓˇ ㄅㄟˋ |
+| 107 | Jie Sha | Robbery Sha | 劫煞 | jié shā | chieh² sha¹ | jye sha | ㄐㄧㄝˊ ㄕㄚ |
+| 108 | Zai Sha | Calamity Sha | 災煞 | zāi shā | tsai¹ sha¹ | tzai sha | ㄗㄞ ㄕㄚ |
+| 109 | Tian Sha | Heavenly Sha | 天煞 | tiān shā | t'ien¹ sha¹ | tian sha | ㄊㄧㄢ ㄕㄚ |
+| 110 | Zhi Bei | Behind Your Back | 指背 | zhǐ bèi | chih³ pei⁴ | jyy bey | ㄓˇ ㄅㄟˋ |
 | 111 | Xian Chi | Temptation Pool | 咸池 | xián chí | hsien² ch'ih² | shyan chyr | ㄒㄧㄢˊ ㄔˊ |
-| 112 | Yue Sha | Moon Evil | 月煞 | yuè shā | yüeh⁴ sha¹ | yueh sha | ㄩㄝˋ ㄕㄚ |
+| 112 | Yue Sha | Moon Sha | 月煞 | yuè shā | yüeh⁴ sha¹ | yueh sha | ㄩㄝˋ ㄕㄚ |
 | 113 | Wang Shen | Death God | 亡神 | wáng shén | wang² shen² | wang shern | ㄨㄤˊ ㄕㄣˊ |
 
 **ZWDS bibliography / sources:**
 
-- Zi Wei Dou Shu course by the [American Feng Shui Institute](https://www.amfengshui.com/);
+- [American Feng Shui Institute](https://www.amfengshui.com/) Zi Wei Dou Shu course;
 - [Complete Chinese Horoscopes](https://archive.org/details/completechineseh0000kwok/mode/2up) by Man-Ho Kwok;
 - *"Zi Wei Dou Shu Correspondence Course"* by [Joseph Yu](https://www.astro-fengshui.com/ziwei-doushu.html);
 - *"The Ten Thousand Year Calendar"* by [Joey Yap](https://www.joeyyap.com/);
@@ -490,7 +490,11 @@
 
 **Please Note:**
 
-Particularly in this last list, it is certain that some entries contain *traditional* Chinese characters, while others contain *simplified* Chinese characters. One such case can be found in the names of the stars no. 27 (月馬 yuè mǎ) and no. 49 (命马 mìng mǎ). The former contains the traditional character for "horse" (馬) while the latter contains the simplified character (马).
+The order of the stars as used in this list is the same one as used in the ZWDS course by the American Feng Shui Intitute.
+
+Some star names are duplicated, like 69 Xiao Hao & 75 Da Hao vs. 95 Xiao Hao & 96 Da Hao. The difference is that the last two stars move annually.
+
+Particularly in this last list, it is certain that some entries contain *traditional* Chinese characters, while others contain *simplified* Chinese characters. One such case can be found in the names of the stars no. 27 (月馬 yuè mǎ) and no. 49 (命马 mìng mǎ). The former name contains the traditional character for "horse" (馬) while the latter contains the simplified character (马). It can also happen, eventually, that some entries contain both a simplified and a traditional character.
 
 Finally, please note that I'm very far from being a 'specialist' or even a fluent speaker of Chinese, so some entries may contain errors.
 
