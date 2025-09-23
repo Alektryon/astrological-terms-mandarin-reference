@@ -405,7 +405,7 @@
 | 39 | Tian Kui | Heavenly Leader | 天魁 | tiān kuí | t'ien¹ k'uei² | tian kwei | ㄊㄧㄢ ㄎㄨㄟˊ |
 | 40 | Tian Yue | Heavenly Halberd | 天鉞 | tiān yuè | t'ien¹ yüeh⁴ | tian yueh | ㄊㄧㄢ ㄩㄝˋ |
 | 41 | Tian Guan | Heavenly Officer | 天官 | tiān guān | t'ien¹ kuan¹ | tian guan | ㄊㄧㄢ ㄍㄨㄢ |
-| 42 | Tian Fu | Heavenly Treasurer | 天褔 | tiān 褔 | t'ien¹ 褔 | tian 褔 | ㄊㄧㄢ 褔 |
+| 42 | Tian Fu | Heavenly Treasurer | 天褔 | tiān fú | t'ien¹ fu² | tian fwu | ㄊㄧㄢ ㄈㄨˊ |
 | 43 | Jie Lu | Obstruction Star | 截路 | jié lù | chieh² lu⁴ | jye luh | ㄐㄧㄝˊ ㄌㄨˋ |
 | 44 | Kong Wang | Void / Emptiness | 空亡 | kōng wáng | k'ung¹ wang² | kong wang | ㄎㄨㄥ ㄨㄤˊ |
 | 45 | Hua Lu | Transforming into Annoyance | 化祿 | huà lù | hua⁴ lu⁴ | huah luh | ㄏㄨㄚˋ ㄌㄨˋ |
