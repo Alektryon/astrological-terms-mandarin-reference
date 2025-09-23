@@ -490,7 +490,7 @@
 
 **Please Note:**
 
-Particularly in this last list, it is certain that some entries contain *traditional* Chinese characters, while others contain *simplified* Chinese characters. One such case can be found in the names of the stars no. 27 (月馬 yuè mǎ) and no. 49 (命马 mìng mǎ). The former name contains the traditional character for "horse" (馬) while the latter contains the simplified character (马).
+Particularly in this last list, it is certain that some entries contain *traditional* Chinese characters, while others contain *simplified* Chinese characters. One such case can be found in the names of the stars no. 27 (月馬 yuè mǎ) and no. 49 (命马 mìng mǎ). The former contains the traditional character for "horse" (馬) while the latter contains the simplified character (马).
 
 Finally, please note that I'm very far from being a 'specialist' or even a fluent speaker of Chinese, so some entries may contain errors.
 
