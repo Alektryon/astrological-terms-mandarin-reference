@@ -480,7 +480,7 @@
 
 **ZWDS bibliography / sources:**
 
-- [American Feng Shui Institute](https://www.amfengshui.com/) Zi Wei Dou Shu course;
+- Zi Wei Dou Shu course by the [American Feng Shui Institute](https://www.amfengshui.com/);
 - [Complete Chinese Horoscopes](https://archive.org/details/completechineseh0000kwok/mode/2up) by Man-Ho Kwok;
 - *"Zi Wei Dou Shu Correspondence Course"* by [Joseph Yu](https://www.astro-fengshui.com/ziwei-doushu.html);
 - *"The Ten Thousand Year Calendar"* by [Joey Yap](https://www.joeyyap.com/);
