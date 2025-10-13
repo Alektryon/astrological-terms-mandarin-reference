@@ -367,7 +367,7 @@
 | 1 | Zi Wei | Purple Star | 紫微 | zǐ wēi | tzu³ wei¹ | tzyy uei | ㄗˇ ㄨㄟ |
 | 2 | Tian Ji | Heavenly Secret | 天機 | tiān jī | t'ien¹ chi¹ | tian ji | ㄊㄧㄢ ㄐㄧ |
 | 3 | Tai Yang | The Sun | 太陽 | tài yáng | t'ai⁴ yang² | tay yang | ㄊㄞˋ ㄧㄤˊ |
-| 4 | Wu Qu | Military Song | 武曲 | wǔ qū | wu³ ch'ü¹ | wuu chiu | ㄨˇ ㄑㄩ |
+| 4 | Wu Qu | Military Song | 武曲 | wǔ qǔ | wu³ ch'ü³ | wuu cheu | ㄨˇ ㄑㄩˇ |
 | 5 | Tian Tong | Heavenly Unity | 天同 | tiān tóng | t'ien¹ t'ung² | tian torng | ㄊㄧㄢ ㄊㄨㄥˊ |
 | 6 | Lian Zhen | Clean and Chaste | 廉貞 | lián zhēn | lien² chen¹ | lian jen | ㄌㄧㄢˊ ㄓㄣ |
 | 7 | Tian Fu | Heavenly Treasurer | 天府 | tiān fǔ | t'ien¹ fu³ | tian fuu | ㄊㄧㄢ ㄈㄨˇ |
@@ -490,12 +490,12 @@
 
 **Please Note:**
 
-The order of the stars as used in this list is the same one as used in the ZWDS course by the American Feng Shui Intitute.
+- The order of the stars as used in this list is the same one as used in the ZWDS course by the [American Feng Shui Institute](https://www.amfengshui.com/).
 
-Some star names are duplicated, like 69 Xiao Hao & 75 Da Hao vs. 95 Xiao Hao & 96 Da Hao. The difference is that the last two stars move annually.
+- Stars 90-113 are specifically defined as Current Year Stars, so some of the names included in this list may be (and in fact are) repeated.
 
-Particularly in this last list, it is certain that some entries contain *traditional* Chinese characters, while others contain *simplified* Chinese characters. One such case can be found in the names of the stars no. 27 (月馬 yuè mǎ) and no. 49 (命马 mìng mǎ). The former name contains the traditional character for "horse" (馬) while the latter contains the simplified character (马). It can also happen, eventually, that some entries contain both a simplified and a traditional character.
+- Some entries contain *traditional* Chinese characters, while others contain *simplified* Chinese characters. One such case can be found in the names of the stars no. 27 (月馬 yuè mǎ) and no. 49 (命马 mìng mǎ). The former name contains the traditional character for "horse" (馬) while the latter contains the simplified character (马). It can also happen, eventually, that some entries contain both a simplified and a traditional character.
 
-Finally, please note that I'm very far from being a 'specialist' or even a fluent speaker of Chinese, so some entries may contain errors.
+- Finally, please note that I'm very far from being a 'specialist' or even a fluent speaker of Chinese, so some entries may contain errors.
 
-If you find any error that you would like to see corrected, please send me an email to **quirinus [at] proton [dot] me**.
+- If you find any error that you would like to see corrected, please send me an email to **quirinus [at] proton [dot] me**.
