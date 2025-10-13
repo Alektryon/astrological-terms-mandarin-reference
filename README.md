@@ -379,7 +379,7 @@
 | 13 | Qi Sha | Seven Killings | 七殺 | qī shā | ch'i¹ sha¹ | chi sha | ㄑㄧ ㄕㄚ |
 | 14 | Po Jun | Broken Army | 破軍 | pò jūn | p'o⁴ chün¹ | poh jiun | ㄆㄛˋ ㄐㄩㄣ |
 | 15 | Wen Chang | Literature Flourishes | 文昌 | wén chāng | wen² ch'ang¹ | wen chang | ㄨㄣˊ ㄔㄤ |
-| 16 | Wen Qu | Literature and Song | 文曲 | wén qū | wen² ch'ü¹ | wen chiu | ㄨㄣˊ ㄑㄩ |
+| 16 | Wen Qu | Literature and Song | 文曲 | wén qǔ | wen² ch'ü³ | wen cheu | ㄨㄣˊ ㄑㄩˇ |
 | 17 | Di Jie | Earth Robbery | 地劫 | dì jié | ti⁴ chieh² | dih jye | ㄉㄧˋ ㄐㄧㄝˊ |
 | 18 | Di Kong | Earth Void | 地空 | dì kōng | ti⁴ k'ung¹ | dih kong | ㄉㄧˋ ㄎㄨㄥ |
 | 19 | Tai Fu | Platform Assistant | 台輔 | tái fǔ | t'ai² fu³ | tair fuu | ㄊㄞˊ ㄈㄨˇ |
