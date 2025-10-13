@@ -396,7 +396,7 @@
 | 30 | Tian Yue | Heavenly Moon | 天月 | tiān yuè | t'ien¹ yüeh⁴ | tian yueh | ㄊㄧㄢ ㄩㄝˋ |
 | 31 | Yin Sha | Yin Evil | 陰煞 | yīn shā | yin¹ sha¹ | in sha | ㄧㄣ ㄕㄚ |
 | 32 | San Tai | Three Platforms | 三台 | sān tái | san¹ t'ai² | san tair | ㄙㄢ ㄊㄞˊ |
-| 33 | Ba Zou | Eight Stands | 八座 | bā zuò | pa¹ tso⁴ | ba tzuoh | ㄅㄚ ㄗㄨㄛˋ |
+| 33 | Ba Zuo | Eight Stands | 八座 | bā zuò | pa¹ tso⁴ | ba tzuoh | ㄅㄚ ㄗㄨㄛˋ |
 | 34 | En Guang | Grance and Light | 恩光 | ēn guāng | en¹ kuang¹ | en guang | ㄣ ㄍㄨㄤ |
 | 35 | Tian Gui | Heavenly Preciousness | 天貴 | tiān guì | t'ien¹ kuei⁴ | tian guey | ㄊㄧㄢ ㄍㄨㄟˋ |
 | 36 | Lu Cun | Salary Accumulation | 祿存 | lù cún | lu⁴ ts'un² | luh tswen | ㄌㄨˋ ㄘㄨㄣˊ |
