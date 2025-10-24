@@ -364,10 +364,10 @@
 
 | No | Star | Meaning (gloss) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |----|------|-----------------|--------------|--------------|------------|-----------------|----------|
-| 1 | Zi Wei | Purple Star | 紫微 | zǐ wēi | tzu³ wei¹ | tzyy uei | ㄗˇ ㄨㄟ |
+| 1 | Zi Wei | Emperor Star | 紫微 | zǐ wēi | tzu³ wei¹ | tzyy uei | ㄗˇ ㄨㄟ |
 | 2 | Tian Ji | Heavenly Secret | 天機 | tiān jī | t'ien¹ chi¹ | tian ji | ㄊㄧㄢ ㄐㄧ |
 | 3 | Tai Yang | The Sun | 太陽 | tài yáng | t'ai⁴ yang² | tay yang | ㄊㄞˋ ㄧㄤˊ |
-| 4 | Wu Qu | Military Song | 武曲 | wǔ qǔ | wu³ ch'ü³ | wuu cheu | ㄨˇ ㄑㄩˇ |
+| 4 | Wu Qu | Military Arts | 武曲 | wǔ qǔ | wu³ ch'ü³ | wuu cheu | ㄨˇ ㄑㄩˇ |
 | 5 | Tian Tong | Heavenly Unity | 天同 | tiān tóng | t'ien¹ t'ung² | tian torng | ㄊㄧㄢ ㄊㄨㄥˊ |
 | 6 | Lian Zhen | Clean and Chaste | 廉貞 | lián zhēn | lien² chen¹ | lian jen | ㄌㄧㄢˊ ㄓㄣ |
 | 7 | Tian Fu | Heavenly Treasurer | 天府 | tiān fǔ | t'ien¹ fu³ | tian fuu | ㄊㄧㄢ ㄈㄨˇ |
@@ -390,7 +390,8 @@
 | 24 | You Bi | Right Assistant | 右弼 | yòu bì | yu⁴ pi⁴ | yow bih | ㄧㄡˋ ㄅㄧˋ |
 | 25 | Tian Xing | Heavenly Punishment | 天刑 | tiān xíng | t'ien¹ hsing² | tian shyng | ㄊㄧㄢ ㄒㄧㄥˊ |
 | 26 | Tian Yao | Heavenly Elegance | 天姚 | tiān yáo | t'ien¹ yao² | tian yau | ㄊㄧㄢ ㄧㄠˊ |
-| 27 | Yue Ma | Moon Horse | 月馬 | yuè mǎ | yüeh⁴ ma³ | yueh maa | ㄩㄝˋ ㄇㄚˇ |
+| 27 | Yue Ma | Monthly Horse | 月馬 | yuè mǎ | yüeh⁴ ma³ | yueh maa | ㄩㄝˋ ㄇㄚˇ |
+| *27* | *Yi Ma* | *Post-Horse* | 驛马 | *yì mǎ* | *i⁴ ma³* | *yih maa* | ㄧˋ ㄇㄚˇ |
 | 28 | Jie Shen | Untie Spirit | 解神 | jiě shén | chieh³ shen² | jiee shern | ㄐㄧㄝˇ ㄕㄣˊ |
 | 29 | Tian Wu | Heavenly Shaman | 天巫 | tiān wū | t'ien¹ wu¹ | tian u | ㄊㄧㄢ ㄨ |
 | 30 | Tian Yue | Heavenly Moon | 天月 | tiān yuè | t'ien¹ yüeh⁴ | tian yueh | ㄊㄧㄢ ㄩㄝˋ |
@@ -400,7 +401,9 @@
 | 34 | En Guang | Grance and Light | 恩光 | ēn guāng | en¹ kuang¹ | en guang | ㄣ ㄍㄨㄤ |
 | 35 | Tian Gui | Heavenly Preciousness | 天貴 | tiān guì | t'ien¹ kuei⁴ | tian guey | ㄊㄧㄢ ㄍㄨㄟˋ |
 | 36 | Lu Cun | Salary Accumulation | 祿存 | lù cún | lu⁴ ts'un² | luh tswen | ㄌㄨˋ ㄘㄨㄣˊ |
+| *36* | *Tian Cun* | *Heavenly Store* | 天存 | *tiān cún* | *t'ien¹ ts'un²* | *tian tswen* | ㄌㄨˋ ㄘㄨㄣˊ |
 | 37 | Qing Yang | Frighten Goat | 擎羊 | qíng yáng | ch'ing² yang² | chyng yang | ㄑㄧㄥˊ ㄧㄤˊ |
+| *37* | *Yang Ren* | *Goat Blade* | 羊刃 | *yáng rèn* | *yang² jen⁴* | *yang renn* | ㄧㄤˊ ㄖㄣˋ |
 | 38 | Tuo Luo | Burden Basket | 陀羅 | tuó luó | t'o² lo² | two luo | ㄊㄨㄛˊ ㄌㄨㄛˊ |
 | 39 | Tian Kui | Heavenly Leader | 天魁 | tiān kuí | t'ien¹ k'uei² | tian kwei | ㄊㄧㄢ ㄎㄨㄟˊ |
 | 40 | Tian Yue | Heavenly Halberd | 天鉞 | tiān yuè | t'ien¹ yüeh⁴ | tian yueh | ㄊㄧㄢ ㄩㄝˋ |
@@ -413,6 +416,7 @@
 | 47 | Hua Ke | Transforms into Fame | 化科 | huà kē | hua⁴ k'o¹ | huah ke | ㄏㄨㄚˋ ㄎㄜ |
 | 48 | Hua Ji | Transforms into Trouble | 化忌 | huà jì | hua⁴ chi⁴ | huah jih | ㄏㄨㄚˋ ㄐㄧˋ |
 | 49 | Ming Ma | Destiny Horse | 命馬 | mìng mǎ | ming⁴ ma³ | minq maa | ㄇㄧㄥˋ ㄇㄚˇ |
+| *49* | *Tian Ma* | *Heavenly Horse* | 天馬 | *tiān mǎ* | *t'ien¹ ma³* | *tian maa* | ㄊㄧㄢ ㄇㄚˇ |
 | 50 | Hua Gai | Elegant Cover | 華蓋 | huá gài | hua² kai⁴ | hwa gay | ㄏㄨㄚˊ ㄍㄞˋ |
 | 51 | Tian Kong | Heavenly Void | 天空 | tiān kōng | t'ien¹ k'ung¹ | tian kong | ㄊㄧㄢ ㄎㄨㄥ |
 | 52 | Tian Ku | Heavenly Weeping | 天哭 | tiān kū | t'ien¹ k'u¹ | tian ku | ㄊㄧㄢ ㄎㄨ |
@@ -494,8 +498,10 @@
 
 - Stars 90-113 are specifically defined as Current Year Stars, so some of the names included in this list may be (and in fact are) repeated.
 
-- Some entries contain *traditional* Chinese characters, while others contain *simplified* Chinese characters. One such case can be found in the names of the stars no. 27 (月馬 yuè mǎ) and no. 49 (命马 mìng mǎ). The former name contains the traditional character for "horse" (馬) while the latter contains the simplified character (马). It can also happen, eventually, that some entries contain both a simplified and a traditional character.
+- Duplicated numbers indicate alternative names of the Stars.
 
-- Finally, please note that I'm very far from being a 'specialist' or even a fluent speaker of Chinese, so some entries may contain errors.
+- Some entries may contain both traditional and/or simplified Chinese characters.
+
+- Finally, please note that I'm very far from being a 'specialist' or even a fluent speaker of Mandarin Chinese, so some entries may contain errors.
 
 - If you find any error that you would like to see corrected, please send me an email to **quirinus [at] proton [dot] me**.
