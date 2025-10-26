@@ -36,7 +36,7 @@
 | 3 | Money Star | Phecda (γ Ursae Majoris) | 禄存星 | lù cún xīng | lu⁴ ts'un² hsing¹ | luh tswen shing | ㄌㄨˋ ㄘㄨㄣˊ ㄒㄧㄥ |
 | 4 | Academic Star | Megrez (δ Ursae Majoris) | 文曲星 | wén qǔ xīng | wen² ch'ü³ hsing¹ | wen chiu shing | ㄨㄣˊ ㄑㄩˇ ㄒㄧㄥ |
 | 5 | Sickness Star | Alioth (ε Ursae Majoris) | 廉贞星 | lián zhēn xīng | lien² chen¹ hsing¹ | lian jhen shing | ㄌㄧㄢˊ ㄓㄣ ㄒㄧㄥ |
-| 6 | Military Arts Star | Mizar (ζ Ursae Majoris) | 武曲星 | wǔ qū xīng | wu³ ch'ü¹ hsing¹ | wuu chiu shing | ㄨˇ ㄑㄩ ㄒㄧㄥ |
+| 6 | Military Arts Star | Mizar (ζ Ursae Majoris) | 武曲星 | wǔ qǔ xīng | wu³ ch'ü³ hsing¹ | wuu cheu shing | ㄨˇ ㄑㄩ ㄒㄧㄥ |
 | 7 | Broken Soldier Star | Alkaid (η Ursae Majoris) | 破军星 | pò jūn xīng | p'o⁴ chün¹ hsing¹ | poh jiun shing | ㄆㄛˋ ㄐㄩㄣ ㄒㄧㄥ |
 | 8 | Left Assistant Star | Auxiliary star A | 左辅星 | zuǒ fǔ xīng | tso³ fu³ hsing¹ | tzuoo fuu shing | ㄗㄨㄛˇ ㄈㄨˇ ㄒㄧㄥ |
 | 9 | Right Assistant Star | Auxiliary star B | 右弼星 | yòu bì xīng | yu⁴ pi⁴ hsing¹ | yow bih shing | ㄧㄡˋ ㄅㄧˋ ㄒㄧㄥ |
@@ -132,8 +132,8 @@
 | Uranus | Heaven King Star | 天王星 | tiān wáng xīng | t'ien¹ wang² hsing¹ | tyan wang shing | ㄊㄧㄢ ㄨㄤˊ ㄒㄧㄥ |
 | Neptune | Sea King Star | 海王星 | hǎi wáng xīng | hai³ wang² hsing¹ | hae wang shing | ㄏㄞˇ ㄨㄤˊ ㄒㄧㄥ |
 | Pluto | Underworld King Star | 冥王星 | míng wáng xīng | ming² wang² hsing¹ | ming wang shing | ㄇㄧㄥˊ ㄨㄤˊ ㄒㄧㄥ |
-| North Node | Head of the Dragon | 龙头 | lóng tóu | lung² t'ou² | Long Tyou | ㄌㄨㄥˊ ㄊㄡˊ |
-| South Node | Tail of the Dragon | 龙尾 | lóng wěi | lung² wei³ | Long Weei | ㄌㄨㄥˊ ㄨㄟˇ |
+| North Node | Head of the Dragon | 龙头 | lóng tóu | lung² t'ou² | long tour | ㄌㄨㄥˊ ㄊㄡˊ |
+| South Node | Tail of the Dragon | 龙尾 | lóng wěi | lung² wei³ | long woei | ㄌㄨㄥˊ ㄨㄟˇ |
 
 ***
 
@@ -185,13 +185,13 @@
 | 13 | Encampment / Chamber | γ Aquarii (Sadachbia) | 室 | shì | shih⁴ | shyh | ㄕˋ |
 | 14 | Wall | α Pegasi (Markab) | 壁 | bì | pi⁴ | bih | ㄅㄧˋ |
 | 15 | Legs of the White Tiger | stars of Andromeda & Pegasus | 奎 | kuí | k'uei² | kwei | ㄎㄨㄟˊ |
-| 16 | Bond / Tether | β Arietis (Sheratan), α Arietis (Hamal) | 婁 | lóu | lou² | low | ㄌㄡˊ |
+| 16 | Bond / Tether | β Arietis (Sheratan), α Arietis (Hamal) | 婁 | lóu | lou² | lou | ㄌㄡˊ |
 | 17 | Stomach of the White Tiger | 35, 39 Arietis | 胃 | wèi | wei⁴ | wey | ㄨㄟˋ |
 | 18 | Hairy Head (Pleiades) | Pleiades (M45, esp. Alcyone) | 昴 | mǎo | mao³ | maau | ㄇㄠˇ |
 | 19 | Net / Net of stars | Hyades cluster (incl. Aldebaran α Tauri) | 畢 | bì | pi⁴ | bih | ㄅㄧˋ |
 | 20 | Beak (of the Turtle) | λ, φ Orionis | 觜 | zuǐ | tsui³ | tzuey | ㄗㄨㄟˇ |
 | 21 | Three Stars (Orion's Belt) | Orion's Belt (Alnitak, Alnilam, Mintaka) | 參 | shēn | shen¹ | shen | ㄕㄣ |
-| 22 | Well (Vermilion Bird) | γ, δ, μ, λ Geminorum | 井 | jǐng | ching³ | jeeng | ㄐㄧㄥˇ |
+| 22 | Well (Vermilion Bird) | γ, δ, μ, λ Geminorum | 井 | jǐng | ching³ | jiing | ㄐㄧㄥˇ |
 | 23 | Ghosts | θ Cancri | 鬼 | guǐ | kuei³ | gwey | ㄍㄨㄟˇ |
 | 24 | Willow | δ Hydrae | 柳 | liǔ | liu³ | leou | ㄌㄧㄡˇ |
 | 25 | Star (bright star) | α Hydrae | 星 | xīng | hsing¹ | shing | ㄒㄧㄥ |
@@ -390,8 +390,8 @@
 | 24 | You Bi | Right Assistant | 右弼 | yòu bì | yu⁴ pi⁴ | yow bih | ㄧㄡˋ ㄅㄧˋ |
 | 25 | Tian Xing | Heavenly Punishment | 天刑 | tiān xíng | t'ien¹ hsing² | tian shyng | ㄊㄧㄢ ㄒㄧㄥˊ |
 | 26 | Tian Yao | Heavenly Elegance | 天姚 | tiān yáo | t'ien¹ yao² | tian yau | ㄊㄧㄢ ㄧㄠˊ |
-| 27 | Yue Ma | Monthly Horse | 月馬 | yuè mǎ | yüeh⁴ ma³ | yueh maa | ㄩㄝˋ ㄇㄚˇ |
-| *27* | *Yi Ma* | *Post-Horse* | 驛马 | *yì mǎ* | *i⁴ ma³* | *yih maa* | ㄧˋ ㄇㄚˇ |
+| **27** | Yue Ma | Monthly Horse | 月馬 | yuè mǎ | yüeh⁴ ma³ | yueh maa | ㄩㄝˋ ㄇㄚˇ |
+| **27** | Yi Ma | Post-Horse | 驛马 | yì mǎ | i⁴ ma³ | yih maa | ㄧˋ ㄇㄚˇ |
 | 28 | Jie Shen | Untie Spirit | 解神 | jiě shén | chieh³ shen² | jiee shern | ㄐㄧㄝˇ ㄕㄣˊ |
 | 29 | Tian Wu | Heavenly Shaman | 天巫 | tiān wū | t'ien¹ wu¹ | tian u | ㄊㄧㄢ ㄨ |
 | 30 | Tian Yue | Heavenly Moon | 天月 | tiān yuè | t'ien¹ yüeh⁴ | tian yueh | ㄊㄧㄢ ㄩㄝˋ |
@@ -400,10 +400,10 @@
 | 33 | Ba Zuo | Eight Stands | 八座 | bā zuò | pa¹ tso⁴ | ba tzuoh | ㄅㄚ ㄗㄨㄛˋ |
 | 34 | En Guang | Grance and Light | 恩光 | ēn guāng | en¹ kuang¹ | en guang | ㄣ ㄍㄨㄤ |
 | 35 | Tian Gui | Heavenly Preciousness | 天貴 | tiān guì | t'ien¹ kuei⁴ | tian guey | ㄊㄧㄢ ㄍㄨㄟˋ |
-| 36 | Lu Cun | Salary Accumulation | 祿存 | lù cún | lu⁴ ts'un² | luh tswen | ㄌㄨˋ ㄘㄨㄣˊ |
-| *36* | *Tian Cun* | *Heavenly Store* | 天存 | *tiān cún* | *t'ien¹ ts'un²* | *tian tswen* | ㄌㄨˋ ㄘㄨㄣˊ |
-| 37 | Qing Yang | Frighten Goat | 擎羊 | qíng yáng | ch'ing² yang² | chyng yang | ㄑㄧㄥˊ ㄧㄤˊ |
-| *37* | *Yang Ren* | *Goat Blade* | 羊刃 | *yáng rèn* | *yang² jen⁴* | *yang renn* | ㄧㄤˊ ㄖㄣˋ |
+| **36** | Lu Cun | Salary Accumulation | 祿存 | lù cún | lu⁴ ts'un² | luh tswen | ㄌㄨˋ ㄘㄨㄣˊ |
+| **36** | Tian Cun | Heavenly Store | 天存 | tiān cún | t'ien¹ ts'un² | tian tswen | ㄌㄨˋ ㄘㄨㄣˊ |
+| **37** | Qing Yang | Frighten Goat | 擎羊 | qíng yáng | ch'ing² yang² | chyng yang | ㄑㄧㄥˊ ㄧㄤˊ |
+| **37** | Yang Ren | Goat Blade | 羊刃 | yáng rèn | yang² jen⁴ | yang renn | ㄧㄤˊ ㄖㄣˋ |
 | 38 | Tuo Luo | Burden Basket | 陀羅 | tuó luó | t'o² lo² | two luo | ㄊㄨㄛˊ ㄌㄨㄛˊ |
 | 39 | Tian Kui | Heavenly Leader | 天魁 | tiān kuí | t'ien¹ k'uei² | tian kwei | ㄊㄧㄢ ㄎㄨㄟˊ |
 | 40 | Tian Yue | Heavenly Halberd | 天鉞 | tiān yuè | t'ien¹ yüeh⁴ | tian yueh | ㄊㄧㄢ ㄩㄝˋ |
@@ -415,8 +415,8 @@
 | 46 | Hua Quan | Transforms into Authority | 化權 | huà quán | hua⁴ ch'üan² | huah chyuan | ㄏㄨㄚˋ ㄑㄩㄢˊ |
 | 47 | Hua Ke | Transforms into Fame | 化科 | huà kē | hua⁴ k'o¹ | huah ke | ㄏㄨㄚˋ ㄎㄜ |
 | 48 | Hua Ji | Transforms into Trouble | 化忌 | huà jì | hua⁴ chi⁴ | huah jih | ㄏㄨㄚˋ ㄐㄧˋ |
-| 49 | Ming Ma | Destiny Horse | 命馬 | mìng mǎ | ming⁴ ma³ | minq maa | ㄇㄧㄥˋ ㄇㄚˇ |
-| *49* | *Tian Ma* | *Heavenly Horse* | 天馬 | *tiān mǎ* | *t'ien¹ ma³* | *tian maa* | ㄊㄧㄢ ㄇㄚˇ |
+| **49** | Ming Ma | Destiny Horse | 命馬 | mìng mǎ | ming⁴ ma³ | minq maa | ㄇㄧㄥˋ ㄇㄚˇ |
+| **49** | Tian Ma | Heavenly Horse | 天馬 | tiān mǎ | t'ien¹ ma³ | tian maa | ㄊㄧㄢ ㄇㄚˇ |
 | 50 | Hua Gai | Elegant Cover | 華蓋 | huá gài | hua² kai⁴ | hwa gay | ㄏㄨㄚˊ ㄍㄞˋ |
 | 51 | Tian Kong | Heavenly Void | 天空 | tiān kōng | t'ien¹ k'ung¹ | tian kong | ㄊㄧㄢ ㄎㄨㄥ |
 | 52 | Tian Ku | Heavenly Weeping | 天哭 | tiān kū | t'ien¹ k'u¹ | tian ku | ㄊㄧㄢ ㄎㄨ |
@@ -457,16 +457,20 @@
 | 87 | Jue | Exhausted | 絕 | jué | chüeh² | jyue | ㄐㄩㄝˊ |
 | 88 | Tai | Pregnancy | 胎 | tāi | t'ai¹ | tai | ㄊㄞ |
 | 89 | Yang | Nourishing | 養 | yǎng | yang³ | yeang | ㄧㄤˇ |
-| 90 | Sui Jian | Year Builder | 歲建 | suì jiàn | sui⁴ chien⁴ | suey jiann | ㄙㄨㄟˋ ㄐㄧㄢˋ |
-| 91 | Hui Qi | Dark Qi | 晦氣 | huì qì | hui⁴ ch'i⁴ | huey chih | ㄏㄨㄟˋ ㄑㄧˋ |
+| **90** | Tai Sui | God of the Year | 太歲 | taì suì | t'ai⁴ sui⁴ | tay suey | ㄊㄞˋ ㄙㄨㄟˋ |
+| **90** | Sui Jian | Year Builder | 歲建 | suì jiàn | sui⁴ chien⁴ | suey jiann | ㄙㄨㄟˋ ㄐㄧㄢˋ |
+| 91 | Hui Qi | Bad Qi | 晦氣 | huì qì | hui⁴ ch'i⁴ | huey chih | ㄏㄨㄟˋ ㄑㄧˋ |
 | 92 | Sang Men | Funeral Gate | 喪門 | sāng mén | sang¹ men² | sang men | ㄙㄤ ㄇㄣˊ |
 | 93 | Guan Suo | Piercing Rope | 貫索 | guàn suǒ | kuan⁴ so³ | guann suoo | ㄍㄨㄢˋ ㄙㄨㄛˇ |
 | 94 | Guan Fu | Closed by Official Order | 官府 | guān fǔ | kuan¹ fu³ | guan fuu | ㄍㄨㄢ ㄈㄨˇ |
-| 95 | Xiao Hao | Minor Loss | 小耗 | xiǎo hào | hsiao³ hao⁴ | sheau haw | ㄒㄧㄠˇ ㄏㄠˋ |
-| 96 | Da Hao | Great Loss | 大耗 | dà hào | ta⁴ hao⁴ | dah haw | ㄉㄚˋ ㄏㄠˋ |
+| **95** | Si Fu | Death Talisman | 死符 | sǐ fú | ssu³ fu² | syy fwu | ㄙˇ ㄈㄨˊ |
+| **95** | Xiao Hao | Small Consumer | 小耗 | xiǎo hào | hsiao³ hao⁴ | sheau haw | ㄒㄧㄠˇ ㄏㄠˋ |
+| **96** | Sui Po | Year Breaker | 歲破 | suì pò | sui⁴ p'o⁴ | suey poh | ㄙㄨㄟˋ ㄆㄛˋ |
+| **96** | Da Hao | Big Consumer | 大耗 | dà hào | ta⁴ hao⁴ | dah haw | ㄉㄚˋ ㄏㄠˋ |
 | 97 | Long De | Dragon Virtue | 龍德 | lóng dé | lung² te² | long der | ㄌㄨㄥˊ ㄉㄜˊ |
 | 98 | Bai Hu | White Tiger | 白虎 | bái hǔ | pai² hu³ | bair huu | ㄅㄞˊ ㄏㄨˇ |
-| 99 | Tian De | Heavenly Virtue | 天德 | tiān dé | t'ien¹ te² | tian der | ㄊㄧㄢ ㄉㄜˊ |
+| **99** | Fu De | Merit and Virtue | 褔德 | fù dé | fu⁴ te² | fuh der | ㄈㄨˋ ㄉㄜˊ |
+| **99** | Tian De | Heavenly Virtue | 天德 | tiān dé | t'ien¹ te² | tian der | ㄊㄧㄢ ㄉㄜˊ |
 | 100 | Diao Ke | Funeral Attendant | 弔客 | diào kè | tiao⁴ k'o⁴ | diaw keh | ㄉㄧㄠˋ ㄎㄜˋ |
 | 101 | Bing Fu | Sickness Symbol | 病符 | bìng fú | ping⁴ fu² | binq fwu | ㄅㄧㄥˋ ㄈㄨˊ |
 | 102 | Jiang Xing | Army General Star | 將星 | jiāng xīng | chiang¹ hsing¹ | jiang shing | ㄐㄧㄤ ㄒㄧㄥ |
@@ -498,10 +502,10 @@
 
 - Stars 90-113 are specifically defined as Current Year Stars, so some of the names included in this list may be (and in fact are) repeated.
 
-- Duplicated numbers indicate alternative names of the Stars.
+- Repeated numbers in **bold** indicate alternative names of the Stars.
 
 - Some entries may contain both traditional and/or simplified Chinese characters.
 
-- Finally, please note that I'm very far from being a 'specialist' or even a fluent speaker of Mandarin Chinese, so some entries may contain errors.
+- Finally, please note that I'm far from being a 'specialist' or even a fluent speaker of Mandarin Chinese, so some entries may contain errors.
 
-- If you find any error that you would like to see corrected, please send me an email to **quirinus [at] proton [dot] me**.
+- If you find any error that you would like to see corrected, please contact me at **quirinus [at] proton [dot] me**.
