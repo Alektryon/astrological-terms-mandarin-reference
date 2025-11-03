@@ -364,7 +364,7 @@
 
 | No | Star | Meaning (gloss) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |----|------|-----------------|--------------|--------------|------------|-----------------|----------|
-| 1 | Zi Wei | Emperor Star | 紫微 | zǐ wēi | tzu³ wei¹ | tzyy uei | ㄗˇ ㄨㄟ |
+| 1 | Zi Wei | Emperor | 紫微 | zǐ wēi | tzu³ wei¹ | tzyy uei | ㄗˇ ㄨㄟ |
 | 2 | Tian Ji | Heavenly Secret | 天機 | tiān jī | t'ien¹ chi¹ | tian ji | ㄊㄧㄢ ㄐㄧ |
 | 3 | Tai Yang | The Sun | 太陽 | tài yáng | t'ai⁴ yang² | tay yang | ㄊㄞˋ ㄧㄤˊ |
 | 4 | Wu Qu | Military Arts | 武曲 | wǔ qǔ | wu³ ch'ü³ | wuu cheu | ㄨˇ ㄑㄩˇ |
@@ -508,4 +508,4 @@
 
 - Finally, please note that I'm far from being a 'specialist' or even a fluent speaker of Mandarin Chinese, so some entries may contain errors.
 
-- If you find any error that you would like to see corrected, please contact me at **quirinus [at] proton [dot] me**.
+- If you find any error that you would like to see corrected, please contact me at **qwirinus [at] proton [dot] me**.
