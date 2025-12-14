@@ -489,10 +489,10 @@
 **ZWDS bibliography / sources:**
 
 - Zi Wei Dou Shu course by the [American Feng Shui Institute](https://www.amfengshui.com/);
-- [Complete Chinese Horoscopes](https://archive.org/details/completechineseh0000kwok/mode/2up) by Man-Ho Kwok;
 - *"Zi Wei Dou Shu Correspondence Course"* by [Joseph Yu](https://www.astro-fengshui.com/ziwei-doushu.html);
 - *"The Ten Thousand Year Calendar"* by [Joey Yap](https://www.joeyyap.com/);
-- [Zi Wei Dou Shu](https://zwdsastrology.blogspot.com/) blog by Viktor;
+- [Zi Wei Dou Shu Astrology](https://zwdsastrology.blogspot.com/) blog by Viktor;
+- [Complete Chinese Horoscopes](https://archive.org/details/completechineseh0000kwok/mode/2up) by Man-Ho Kwok;
 
 ***
 
@@ -508,4 +508,6 @@
 
 - Finally, please note that I'm far from being a 'specialist' or even a fluent speaker of Mandarin Chinese, so some entries may contain errors.
 
-- If you find any error that you would like to see corrected, simply fork this repository and request to merge your modifications. Thanks in advance! =)
+- If you find any error that you would like to see corrected, simply fork this repository and request to merge your modifications.
+
+  Thanks in advance! =)
