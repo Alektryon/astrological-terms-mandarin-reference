@@ -508,4 +508,4 @@
 
 - Finally, please note that I'm far from being a 'specialist' or even a fluent speaker of Mandarin Chinese, so some entries may contain errors.
 
-- If you find any error that you would like to see corrected, please contact me at **qwirinus [at] proton [dot] me**.
+- If you find any error that you would like to see corrected, simply fork this repository and request to merge your modifications. Thanks in advance! =)
