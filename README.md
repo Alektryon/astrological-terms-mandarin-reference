@@ -139,8 +139,8 @@
 
 ## 24 Solar Terms
 
-| No | Solar Term | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
-|----|------------|--------------|--------------|------------|-----------------|----------|
+| No | Solar Term | Dates (approx.) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|----|------------|-----------------|--------------|--------------|------------|-----------------|----------|
 | 1 | Beginning of Spring | 4–5 February | 立春 | lì chūn | li⁴ ch'un¹ | lih chuen | ㄌㄧˋ ㄔㄨㄣ |
 | 2 | Rain Water | 18–19 February | 雨水 | yǔ shuǐ | yü³ shui³ | yu shuey | ㄩˇ ㄕㄨㄟˇ |
 | 3 | Awakening of Insects | 5–6 March | 惊蛰 | jīng zhé | ching¹ che² | jing zhe | ㄐㄧㄥ ㄓㄜˊ |
