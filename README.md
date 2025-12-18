@@ -360,6 +360,112 @@
 
 ***
 
+| No | Star | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
+|----|------|--------------|--------------|------------|-----------------|----------|
+| 1 | Eight Seats | 八座 | bā zuò | pa¹ tso⁴ | ba zuoh | ㄅㄚ ㄗㄨㄛˋ |
+| 2 | White Tiger | 白虎 | bái hǔ | pai² hu³ | bair huu | ㄅㄞˊ ㄏㄨˇ |
+| 3 | Brutal Defeat | 暴敗 | bào bài | pao⁴ pai⁴ | baw bay | ㄅㄠˋ ㄅㄞˋ |
+| 4 | Leopard Tail | 豹尾 | bào wěi | pao⁴ wei³ | baw weei | ㄅㄠˋ ㄨㄟˇ |
+| 5 | Sickness | 病符 | bìng fú | ping⁴ fu² | binq fwu | ㄅㄧㄥˋ ㄈㄨˊ |
+| 6 | Great Consumer | 大耗 | dà hào | ta⁴ hao⁴ | dah haw | ㄉㄚˋ ㄏㄠˋ |
+| 7 | Great Sha | 大煞 | dà shā | ta⁴ sha¹ | dah sha | ㄉㄚˋ ㄕㄚ |
+| 8 | Sky Sadness | 大虛 | dà xū | ta⁴ hsü¹ | dah shiu | ㄉㄚˋ ㄒㄩ |
+| 9 | Solid Killing | 的煞 | de shā | te¹ sha¹ | de sha | ㄉㄜ ㄕㄚ |
+| 10 | Earth Relief | 地解 | dì jiě | ti⁴ chieh³ | dih jiee | ㄉㄧˋ ㄐㄧㄝˇ |
+| 11 | Earth Funeral | 地喪 | dì sāng | ti⁴ sang¹ | dih sang | ㄉㄧˋ ㄙㄤ |
+| 12 | Earth Sha | 地煞 | dì shā | ti⁴ sha¹ | dih sha | ㄉㄧˋ ㄕㄚ |
+| 13 | Funeral Guest | 弔客 | diào kè | tiao⁴ k’o⁴ | diaw keh | ㄉㄧㄠˋ ㄎㄜˋ |
+| 14 | Flying Chaste | 飛廉 | fēi lián | fei¹ lien² | fei lian | ㄈㄟ ㄌㄧㄢˊ |
+| 15 | Flying Blade | 飛刃 | fēi rèn | fei¹ jen⁴ | fei renn | ㄈㄟ ㄖㄣˋ |
+| 16 | Phoenix Pavilion | 鳳閣 | fèng gé | feng⁴ ko² | fenq ger | ㄈㄥˋ ㄍㄜˊ |
+| 17 | Fortune Virtue | 福德 | fú dé | fu² te² | fwu der | ㄈㄨˊ ㄉㄜˊ |
+| 18 | Hidden Corpse | 伏屍 | fú shī | fu² shih¹ | fwu shih | ㄈㄨˊ ㄕ |
+| 19 | Prosperity Star | 福星 | fú xīng | fu² hsing¹ | fwu shing | ㄈㄨˊ ㄒㄧㄥ |
+| 20 | Separating Edge | 隔角 | gé jiǎo | ko² chiao³ | ger jeau | ㄍㄜˊ ㄐㄧㄠˇ |
+| 21 | Hook | 勾絞 | gōu jiǎo | kou¹ chiao³ | gou jeau | ㄍㄡ ㄐㄧㄠˇ |
+| 22 | Solitary | 孤辰 | gū chén | ku¹ ch’en² | gu chen | ㄍㄨ ㄔㄣˊ |
+| 23 | Lonesome | 寡宿 | guǎ sù | kua³ su⁴ | goa suh | ㄍㄨㄚˇ ㄙㄨˋ |
+| 24 | Piercing Rope | 貫索 | guàn suǒ | kuan⁴ so³ | goann suo | ㄍㄨㄢˋ ㄙㄨㄛˇ |
+| 25 | National Treasure | 國印 | guó yìn | kuo² yin⁴ | guor yinn | ㄍㄨㄛˊ ㄧㄣˋ |
+| 26 | Red Matchmaker | 紅鸞 | hóng luán | hung² luan² | horng luan | ㄏㄨㄥˊ ㄌㄨㄢˊ |
+| 27 | Red Chamber | 红艳 | hóng yàn | hung² yen⁴ | horng yann | ㄏㄨㄥˊ ㄧㄢˋ |
+| 28 | Elegant Seal | 華蓋 | huá gài | hua² kai⁴ | hwa gaih | ㄏㄨㄚˊ ㄍㄞˋ |
+| 29 | Bad Qi | 晦氣 | huì qì | hui⁴ ch’i⁴ | huey chih | ㄏㄨㄟˋ ㄑㄧˋ |
+| 30 | Sword Edge | 劍鋒 | jiàn fēng | chien⁴ feng¹ | jiann feng | ㄐㄧㄢˋ ㄈㄥ |
+| 31 | General Star | 將星 | jiāng xīng | chiang¹ hsing¹ | jiang shing | ㄐㄧㄤ ㄒㄧㄥ |
+| 32 | Crossing Sha | 絞煞 | jiǎo shā | chiao³ sha¹ | jeau sha | ㄐㄧㄠˇ ㄕㄚ |
+| 33 | Robbery Sha | 劫煞 | jié shā | chieh² sha¹ | jieh sha | ㄐㄧㄝˊ ㄕㄚ |
+| 34 | Relief God | 解神 | jiě shén | chieh³ shen² | jiee shen | ㄐㄧㄝˇ ㄕㄣˊ |
+| 35 | Golden Lock | 金遺 | jīn yí | chin¹ i² | jin yi | ㄐㄧㄣ ㄧˊ |
+| 36 | Golden Carriage | 金輿 | jīn yú | chin¹ yü² | jin yu | ㄐㄧㄣ ㄩˊ |
+| 37 | Curled Tongue | 卷舌 | juàn shé | chüan⁴ she² | jiuann sher | ㄐㄩㄢˋ ㄕㄜˊ |
+| 38 | Obstacles | 闌干 | lán gān | lan² kan¹ | lan gan | ㄌㄢˊ ㄍㄢ |
+| 39 | Six Harm | 六害 | liù hài | liu⁴ hai⁴ | liuh hay | ㄌㄧㄡˋ ㄏㄞˋ |
+| 40 | Cascading Cloud | 流霞 | liú xiá | liu² hsia² | liou hya | ㄌㄧㄡˊ ㄒㄧㄚˊ |
+| 41 | Dragon Pool | 龍池 | lóng chí | lung² ch’ih² | lorng chyr | ㄌㄨㄥˊ ㄔˊ |
+| 42 | Dragon Virtue | 龍德 | lóng dé | lung² te² | lorng der | ㄌㄨㄥˊ ㄉㄜˊ |
+| 43 | Thriving | 祿勳 | lù xūn | lu⁴ hsün¹ | luh shiun | ㄌㄨˋ ㄒㄩㄣ |
+| 44 | Bright Hall | 明堂 | míng táng | ming² t’ang² | ming tarng | ㄇㄧㄥˊ ㄊㄤˊ |
+| 45 | Mo Yue | 陌越 | mò yuè | mo⁴ yüeh⁴ | moh yueh | ㄇㄛˋ ㄩㄝˋ |
+| 46 | Pommelled Saddle | 攀鞍 | pān ān | p’an¹ an¹ | pan an | ㄆㄢ ㄢ |
+| 47 | Drapes | 披麻 | pī má | p’i¹ ma² | pi ma | ㄆㄧ ㄇㄚˊ |
+| 48 | Pealing Head | 披頭 | pī tóu | p’i¹ t’ou² | pi tour | ㄆㄧ ㄊㄡˊ |
+| 49 | Broken Star | 破碎 | pò suì | p’o⁴ sui⁴ | poh suey | ㄆㄛˋ ㄙㄨㄟˋ |
+| 50 | Prison | 囚狱 | qiú yù | ch’iu² yü⁴ | chiou yuh | ㄑㄧㄡˊ ㄩˋ |
+| 51 | Three Stages | 三台 | sān tái | san¹ t’ai² | san tar | ㄙㄢ ㄊㄞˊ |
+| 52 | Funeral Door | 喪門 | sāng mén | sang¹ men² | sang men | ㄙㄤ ㄇㄣˊ |
+| 53 | Death Charm | 死符 | sǐ fú | ssu³ fu² | syy fwu | ㄙˇ ㄈㄨˊ |
+| 54 | Grand Duke Combo | 歲合 | suì hé | sui⁴ ho² | suey her | ㄙㄨㄟˋ ㄏㄜˊ |
+| 55 | Heavenly Horse | 歲馬 | suì mǎ | sui⁴ ma³ | suey maa | ㄙㄨㄟˋ ㄇㄚˇ |
+| 56 | Year Breaker | 歲破 | suì pò | sui⁴ p’o⁴ | suey poh | ㄙㄨㄟˋ ㄆㄛˋ |
+| 57 | Disaster Sha | 歲煞 | suì shā | sui⁴ sha¹ | suey sha | ㄙㄨㄟˋ ㄕㄚ |
+| 58 | Year Punishment | 歲刑 | suì xíng | sui⁴ hsing² | suey shing | ㄙㄨㄟˋ ㄒㄧㄥˊ |
+| 59 | Grand Duke | 太歲 | tài suì | t’ai⁴ sui⁴ | tay suey | ㄊㄞˋ ㄙㄨㄟˋ |
+| 60 | Sun | 太陽 | tài yáng | t’ai⁴ yang² | tay yang | ㄊㄞˋ ㄧㄤˊ |
+| 61 | Moon | 太陰 | tài yīn | t’ai⁴ yin¹ | tay yin | ㄊㄞˋ ㄧㄣ |
+| 62 | Tang Fu | 唐符 | táng fú | t’ang² fu² | tarng fwu | ㄊㄤˊ ㄈㄨˊ |
+| 63 | Peach Blossom | 桃花 | táo huā | t’ao² hua¹ | tau hwa | ㄊㄠˊ ㄏㄨㄚ |
+| 64 | Heavenly Chef | 天廚 | tiān chú | t’ien¹ ch’u² | tian chwu | ㄊㄧㄢ ㄔㄨˊ |
+| 65 | Heavenly Virtue | 天德 | tiān dé | t’ien¹ te² | tian der | ㄊㄧㄢ ㄉㄜˊ |
+| 66 | Dark Sky | 天厄 | tiān è | t’ien¹ o⁴ | tian eh | ㄊㄧㄢ ㄜˋ |
+| 67 | Sky Fortune | 天福 | tiān fú | t’ien¹ fu² | tian fwu | ㄊㄧㄢ ㄈㄨˊ |
+| 68 | Sky Bright | 天罡 | tiān gāng | t’ien¹ kang¹ | tian gang | ㄊㄧㄢ ㄍㄤ |
+| 69 | Sky Dog | 天狗 | tiān gǒu | t’ien¹ kou³ | tian gou | ㄊㄧㄢ ㄍㄡˇ |
+| 70 | Heavenly Officer | 天官 | tiān guān | t’ien¹ kuan¹ | tian guan | ㄊㄧㄢ ㄍㄨㄢ |
+| 71 | Heavenly Officer Charm | 天官符 | tiān guān fú | t’ien¹ kuan¹ fu² | tian guan fwu | ㄊㄧㄢ ㄍㄨㄢ ㄈㄨˊ |
+| 72 | Sky Relief | 天解 | tiān jiě | t’ien¹ chieh³ | tian jiee | ㄊㄧㄢ ㄐㄧㄝˇ |
+| 73 | Sky Emptiness | 天空 | tiān kōng | t’ien¹ k’ung¹ | tian kong | ㄊㄧㄢ ㄎㄨㄥ |
+| 74 | Sky Cry | 天哭 | tiān kū | t’ien¹ k’u¹ | tian ku | ㄊㄧㄢ ㄎㄨ |
+| 75 | Sky Noble | 天魅 | tiān mèi | t’ien¹ mei⁴ | tian may | ㄊㄧㄢ ㄇㄟˋ |
+| 76 | Sky Sha | 天煞 | tiān shā | t’ien¹ sha¹ | tian sha | ㄊㄧㄢ ㄕㄚ |
+| 77 | Sky Happiness | 天喜 | tiān xǐ | t’ien¹ hsi³ | tian shii | ㄊㄧㄢ ㄒㄧˇ |
+| 78 | Sky Warrior | 天雄 | tiān xióng | t’ien¹ hsiung² | tian shyong | ㄊㄧㄢ ㄒㄩㄥˊ |
+| 79 | Heavenly Nobleman | 天乙 | tiān yǐ | t’ien¹ i³ | tian yii | ㄊㄧㄢ ㄧˇ |
+| 80 | Sky Gracious | 天鉞 | tiān yuè | t’ien¹ yüeh⁴ | tian yueh | ㄊㄧㄢ ㄩㄝˋ |
+| 81 | Death God | 亡神 | wáng shén | wang² shen² | wang shen | ㄨㄤˊ ㄕㄣˊ |
+| 82 | Intelligent | 文昌 | wén chāng | wen² ch’ang¹ | wen chang | ㄨㄣˊ ㄔㄤ |
+| 83 | Five Prosperity | 五富 | wǔ fù | wu³ fu⁴ | wuu fuh | ㄨˇ ㄈㄨˋ |
+| 84 | Rest God | 息神 | xī shén | hsi¹ shen² | shi shen | ㄒㄧ ㄕㄣˊ |
+| 85 | Salty Pool | 咸池 | xián chí | hsien² ch’ih² | shian chyr | ㄒㄧㄢˊ ㄔˊ |
+| 86 | Lesser Consumer | 小耗 | xiǎo hào | hsiao³ hao⁴ | shiau haw | ㄒㄧㄠˇ ㄏㄠˋ |
+| 87 | Study Hall | 學堂 | xué táng | hsüeh² t’ang² | shiue tarng | ㄒㄩㄝˊ ㄊㄤˊ |
+| 88 | Goat Blade | 羊刃 | yáng rèn | yang² jen⁴ | yang renn | ㄧㄤˊ ㄖㄣˋ |
+| 89 | Sky Horse | 驛馬 | yì mǎ | i⁴ ma³ | yih maa | ㄧˋ ㄇㄚˇ |
+| 90 | Jade Hall | 玉堂 | yù táng | yü⁴ t’ang² | yuh tarng | ㄩˋ ㄊㄤˊ |
+| 91 | Monthly Virtue | 月德 | yuè dé | yüeh⁴ te² | yueh der | ㄩㄝˋ ㄉㄜˊ |
+| 92 | Month Emptiness | 月空 | yuè kōng | yüeh⁴ k’ung¹ | yueh kong | ㄩㄝˋ ㄎㄨㄥ |
+| 93 | Moon Sha | 月煞 | yuè shā | yüeh⁴ sha¹ | yueh sha | ㄩㄝˋ ㄕㄚ |
+| 94 | Calamity Sha | 災煞 | zāi shā | tsai¹ sha¹ | tsai sha | ㄗㄞ ㄕㄚ |
+| 95 | Back Poking | 指背 | zhǐ bèi | chih³ pei⁴ | chyy bey | ㄓˇ ㄅㄟˋ |
+| 96 | Emperor Star | 紫微 | zǐ wēi | tzu³ wei¹ | tzyy wei | ㄗˇ ㄨㄟ |
+| 97 | Great Assembly | 卒暴 | zú bào | tsu² pao⁴ | tswu baw | ㄗㄨˊ ㄅㄠˋ |
+
+**Source for this table:**
+
+- *"The Annual Auxiliary Stars"* by [Josephine Phang](https://www.bazichic.com/);
+
+***
+
 ## Stars used in Zi Wei Dou Shu
 
 | No | Star | Meaning (gloss) | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
