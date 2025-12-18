@@ -360,6 +360,8 @@
 
 ***
 
+## Stars used in Ba Zi
+
 | No | Star | Chinese Name | Hanyu Pinyin | Wade-Giles | Gwoyeu Romatzyh | Bopomofo |
 |----|------|--------------|--------------|------------|-----------------|----------|
 | 1 | Eight Seats | 八座 | bā zuò | pa¹ tso⁴ | ba zuoh | ㄅㄚ ㄗㄨㄛˋ |
